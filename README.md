@@ -1,9 +1,10 @@
+<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_2244.jpg" align="right" width="240" style="border-radius:120px">
 Scott van Looy
 ---------------
-<table>
+<table width="60%">
 	<tr>
-		<td>Location:</td>
-		<td>Berlin, Germany</td>
+		<td width="60%">Location:</td>
+		<td width="40%">Berlin, Germany</td>
 	</tr>
 	<tr>
 		<td>Nationality:</td>
@@ -17,11 +18,19 @@ Scott van Looy
 		<td>Year of Birth:</td>
 		<td>1974</td>
 	</tr>
+	<tr>
+		<td>Tel:</td>
+		<td>+49 1577 834 5783</td>
+	</tr>
+	<tr>
+		<td>Email:</td>
+		<td>s<span></span>cott@ethosuk.net</td>
+	</tr>
 </table>
 
 Summary
 ---------------
-Scott is a specialist in front end web technologies and implementation. He prefers leading by example and as such is a very hands-on coder, believing that the quality of the product is paramount and happy to share his knowledge with the team.
+Scott is a specialist in front end web technologies and implementation. He prefers leading by example and as such is a very hands-on coder, believing that the quality of the product is paramount and happy to share his knowledge with the team. 
 
 He is an active participant in peer reviews and cross browser testing.
 
@@ -29,14 +38,14 @@ An expert in Javascript, having written his own libraries and frameworks in the 
 
 Scott has worked primarily with the following technologies: Javascript (including ECMAScript 6), NodeJS, HTML5 and CSS3 and as a consequence has also worked with Grunt, Gulp, SASS, Node, MongoDB, Express (3.x/4.x).
 
-Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](https://twitter.com/svanlooy)
+Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](https://twitter.com/svanlooy).
 
 Expert in
 ---------------
 <table width="100%"><tr><td width="50%"><ul>
 <li>Javascript (inc ES6): 20 years</li>
 <li>CSS (inc CSS3): 19 years</li>
-<li>HTML (inc XHTML, DHTML, HTML5): 21 years</li>
+<li>HTML (inc HTML5): 21 years</li>
 <li>JSON: 5 years</li>
 <li>NodeJS (inc Express): 4 years</li>
 </td><td width="50%">
@@ -46,15 +55,14 @@ Expert in
 <li>Grunt: 2 years</li>
 <li>Gulp: 1 year</li>
 </ul></tr></table>
-
-Also good at
+Additionally
 ---------------
 <table width="100%"><tr><td width="50%"><ul>
 <li>Adobe suite (Photoshop/Illustrator/InDesign): 10+ years
-<li>SQL: (SQL Server and MySQL with a little PostGRES): 10 years
+<li>SQL: (SQL Server and MySQL): 10 years
 <li>JSP: 10 years
-<li>Linux/Apache/etc devops: 10 years
 </td><td width="50%">
+<li>Linux/Apache/etc devops: 10 years
 <li>MongoDB: 2 years
 <li>CouchDB: 1 year
 <li>Adobe CQ/Sightly: 1 year
@@ -64,11 +72,13 @@ Work Experience
 ---------------
 Scott has spent the last 9 years working at AKQA, 5 years as a Senior Web Developer and more recently, 4 years as a Technical Architect. In this time he has worked on many projects including:
 
+<hr>
 **As yet unnamed community management tool** 2015/12 - 2016/3
 
 Architect/Full stack developer - Integrating with IBM's Watson service, this Node based tool allows Community Managers to work in a much more efficient fashion on Twitter. Taking advantage of IBM's Natural Language Classifier, their Personality Insights service and Sentiment Analysis to offer a semi automatic conversation, enabling CMs to interact with many more end users than previously able to.
 
 Technologies used: HTML5, CSS3, Javascript (ES5 front end, ES6 back end), NodeJS, Express, Passport, jQuery, Handlebars, MongoDB, Twitter API, IBM Bluemix APIs.
+<hr>
 
 **Rolls-Royce Motor Cars** 2015/06 - 2015/10
 
@@ -83,6 +93,7 @@ Project came in on time and under budget. Launched in September 2015.
 Technologies used: Gulp, ECMAScript 6, HTML5, jQuery, Picturefill, SVG, PubSubJS, SASS, Babel, ZombieJS, Adobe CQ5 version 6, Sightly, Stash, Slack, Java.
 
 [https://www.rolls-roycemotorcars.com/](https://www.rolls-roycemotorcars.com/)
+<hr>
 
 **Officine Panerai** 2014/01 - 2015/06
 
@@ -93,6 +104,7 @@ Included 2 weeks of training existing front end developers and interviewing fron
 Technologies used: HTML5, CSS3, ECMAScript 5. Browser support included all major vendors and even IE8. Optimised for mobile performance.
 
 [http://www.panerai.com/](https://www.rolls-roycemotorcars.com/)
+<hr>
 
 **Volkswagen Motorcars** 2010/07 - 2012/06
 
@@ -106,6 +118,7 @@ Technologies used:
 HTML, CSS, Javascript, Photoshop
 
 [http://app.volkswagen.de/ihdcc/de/configurator.html](http://app.volkswagen.de/ihdcc/de/configurator.html)
+<hr>
 
 **Nokia** 2009/02 - 2010/07
 
