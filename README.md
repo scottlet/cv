@@ -72,6 +72,7 @@ Work Experience
 ---------------
 <hr>
 **Zalando via Futurice** 2016/04
+
 Creating https://jobs.zalando.de with a small team. Updated their gulp workflow for livereload, enabling us to work faster as this was a tight deadline with a small team. 
 
 Technologies used: Greenhouse API, Candidata, swig, gulp, SASS, React.
