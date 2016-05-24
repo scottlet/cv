@@ -70,7 +70,14 @@ Additionally
 
 Work Experience
 ---------------
-Scott has spent the last 9 years working at AKQA, 5 years as a Senior Web Developer and more recently, 4 years as a Technical Architect. In this time he has worked on many projects including:
+<hr>
+**Zalando via Futurice** 2016/04
+Creating https://jobs.zalando.de with a small team. Updated their gulp workflow for livereload, enabling us to work faster as this was a tight deadline with a small team. 
+
+Technologies used: Greenhouse API, Candidata, swig, gulp, SASS, React.
+<hr>
+
+Scott spent 9 years working at AKQA, 5 years as a Senior Web Developer and more recently, 4 years as a Technical Architect. In this time he has worked on many projects including:
 
 <hr>
 **As yet unnamed community management tool** 2015/12 - 2016/3
