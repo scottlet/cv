@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_2244.jpg" align="right" width="240" style="border-radius:120px">
+<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_3203.jpg" align="right" width="240" style="border-radius:120px">
 Scott van Looy
 ---------------
 <table width="60%">
@@ -34,7 +34,7 @@ Scott is a specialist in front end web technologies and implementation. He prefe
 
 He is an active participant in peer reviews and cross browser testing.
 
-An expert in Javascript, having written his own libraries and frameworks in the past, he has recently been specialising in front end web performance, writing an article for [DotNET magazine in 2014](http://www.creativebloq.com/netmag/5-tips-creating-simpler-and-speedier-websites-81412746) and [speaking at a few events](http://www.techinsight.io/event/amsterdam-june-2015/).
+An expert in Javascript, having written his own libraries and frameworks in the past, he has recently been specialising in front end web performance, writing an article for [DotNET magazine in 2014](http://www.creativebloq.com/netmag/5-tips-creating-simpler-and-speedier-websites-81412746) and speaking [at](http://www.techinsight.io/event/berlin-november-2013/) [a](http://www.techinsight.io/event/london-march-2014/) [few](http://www.techinsight.io/event/berlin-august-2014/) [events](http://www.techinsight.io/event/amsterdam-june-2015/).
 
 Scott has worked primarily with the following technologies: Javascript (including ECMAScript 6), NodeJS, HTML5 and CSS3 and as a consequence has also worked with Grunt, Gulp, SASS, Node, MongoDB, Express (3.x/4.x).
 
