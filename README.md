@@ -78,7 +78,7 @@ Creating https://jobs.zalando.de with a small team. Updated their gulp workflow 
 Technologies used: Greenhouse API, Candidata, swig, gulp, SASS, React.
 <hr>
 
-Scott spent 9 years working at AKQA, 5 years as a Senior Web Developer and more recently, 4 years as a Technical Architect. In this time he has worked on many projects including:
+Scott spent 9 years working at AKQA, 4 years as a Technical Architect/Development lead and 5 years as a Senior Web Developer. In this time he has worked on many projects including:
 
 <hr>
 **As yet unnamed community management tool** 2015/12 - 2016/3
