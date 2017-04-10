@@ -20,7 +20,7 @@ Scott van Looy
 	</tr>
 	<tr>
 		<td>Tel:</td>
-		<td>+49 1577 834 5783</td>
+		<td>+49 172 272 0189</td>
 	</tr>
 	<tr>
 		<td>Email:</td>
@@ -43,30 +43,31 @@ Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](ht
 Expert in
 ---------------
 <table width="100%"><tr><td width="50%"><ul>
-<li>Javascript (inc ES6): 20 years</li>
-<li>CSS (inc CSS3): 19 years</li>
-<li>HTML (inc HTML5): 21 years</li>
-<li>JSON: 5 years</li>
-<li>NodeJS (inc Express): 4 years</li>
-</td><td width="50%">
-<li>EJS: 4 years</li>
-<li>SASS (inc Compass, Bourbon): 3 years</li>
-<li>Handlebars: 2 years</li>
-<li>Grunt: 2 years</li>
-<li>Gulp: 1 year</li>
-</ul></tr></table>
+<li>Javascript (inc ES6): 21 years</li>
+<li>CSS (inc CSS3): 20 years</li>
+<li>HTML (inc HTML5): 22 years</li>
+<li>JSON: 6 years</li>
+<li>NodeJS (inc Express): 5 years</li></ul>
+</td><td width="50%"><ul>
+<li>EJS: 5 years</li>
+<li>SASS (inc Compass, Bourbon): 4 years</li>
+<li>Handlebars: 3 years</li>
+<li>Grunt: 3 years</li>
+<li>Gulp: 2 year</li>
+</ul></td></tr></table>
+
 Additionally
 ---------------
 <table width="100%"><tr><td width="50%"><ul>
-<li>Adobe suite (Photoshop/Illustrator/InDesign): 10+ years
-<li>SQL: (SQL Server and MySQL): 10 years
-<li>JSP: 10 years
-</td><td width="50%">
-<li>Linux/Apache/etc devops: 10 years
-<li>MongoDB: 2 years
-<li>CouchDB: 1 year
-<li>Adobe CQ/Sightly: 1 year
-</ul></tr></table>
+<li>Adobe suite (Photoshop/Illustrator/InDesign): 10+ years</li>
+<li>SQL: (SQL Server and MySQL): 10 years</li>
+<li>JSP: 10 years</li></ul>
+</td><td width="50%"><ul>
+<li>Linux/Apache/etc devops: 10 years</li>
+<li>MongoDB: 2 years</li>
+<li>CouchDB: 1 year</li>
+<li>Adobe CQ/Sightly: 1 year</li>
+</ul></td></tr></table>
 
 Recent Work
 ---------------
