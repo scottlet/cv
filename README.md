@@ -34,7 +34,7 @@ Scott is a specialist in front end web technologies and implementation. He prefe
 
 He is an active participant in peer reviews and cross browser testing.
 
-An expert in Javascript, having written his own libraries and frameworks in the past, he has recently been specialising in front end web performance, writing an article for [DotNET magazine in 2014](http://www.creativebloq.com/netmag/5-tips-creating-simpler-and-speedier-websites-81412746) and speaking [at](http://www.techinsight.io/event/berlin-november-2013/) [a](http://www.techinsight.io/event/london-march-2014/) [few](http://www.techinsight.io/event/berlin-august-2014/) [events](http://www.techinsight.io/event/amsterdam-june-2015/).
+An expert in Javascript, having written his own libraries and frameworks in the past, he has recently been specialising in front end web performance, writing an article for [DotNET magazine in 2014](http://www.creativebloq.com/netmag/5-tips-creating-simpler-and-speedier-websites-81412746) and  [speaking](http://www.techinsight.io/event/berlin-november-2013/) [at](http://www.techinsight.io/event/london-march-2014/) [a](http://www.techinsight.io/event/berlin-august-2014/) [few](http://www.techinsight.io/event/amsterdam-june-2015/) [events](http://www.techinsight.io/event/berlin-june-2016/).
 
 Scott has worked primarily with the following technologies: Javascript (including ECMAScript 6), NodeJS, HTML5 and CSS3 and as a consequence has also worked with Grunt, Gulp, SASS, Node, MongoDB, Express (3.x/4.x).
 
@@ -96,7 +96,7 @@ Creating https://jobs.zalando.de with a small team. Updated their gulp workflow 
 Technologies used: Greenhouse API, Candidata, swig, gulp, SASS, React.
 <hr>
 
-Scott spent 9 years working at AKQA, 5 years as a Senior Web Developer and more recently, 4 years as a Technical Architect. In this time he has worked on many projects including:
+Scott spent 9 years working at AKQA, 4 years as a Technical Architect/Development lead and 5 years as a Senior Web Developer. In this time he has worked on many projects including:
 
 <hr>
 **As yet unnamed community management tool** 2015/12 - 2016/3
