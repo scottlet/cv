@@ -73,24 +73,28 @@ Additionally
 Recent Work
 ---------------
 <br>
+
 **Hermès via AKQA (Contract)** 2016/06 - 2017/04
 
 Creating a new ecommerce website for Hèrmes brand
 
 Technologies used: Drupal, PHP, gulp, SASS, ES6.
 <hr>
+
 **Q Berlin Questions for Curages (Contract)** 2017/02 - 2017/03
 
 Creating https://q.berlin - a custom WordPress theme.
 
 Technologies used: Wordpress, PHP, MySQL, gulp, SASS, ES6.
 <hr>
+
 **Submerge Festival (Pro Bono)** 2016/08 - 2016/11
 
 Rebuilding https://www.submergefestival.co.uk/ - from 3rd party design. A custom WordPress theme.
 
 Technologies used: Wordpress, PHP, MySQL, gulp, SASS, ES6.
 <hr>
+
 **Zalando via Futurice (Contract)** 2016/04
 
 Creating https://jobs.zalando.de with a small team. Updated their gulp workflow for livereload, enabling us to work faster as this was a tight deadline with a small team.
@@ -101,6 +105,7 @@ Technologies used: Greenhouse API, Candidata, swig, gulp, SASS, React.
 Scott spent 9 years working at AKQA, 4 years as a Technical Architect/Development lead and 5 years as a Senior Web Developer. In this time he has worked on many projects including:
 
 <hr>
+
 **As yet unnamed community management tool** 2015/12 - 2016/3
 
 Architect/Full stack developer - Integrating with IBM's Watson service, this Node based tool allows Community Managers to work in a much more efficient fashion on Twitter. Taking advantage of IBM's Natural Language Classifier, their Personality Insights service and Sentiment Analysis to offer a semi automatic conversation, enabling CMs to interact with many more end users than previously able to.
