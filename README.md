@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_3203.jpg" align="right" width="240" style="border-radius:120px">
+
 Scott van Looy
 ---------------
 <table width="60%">
