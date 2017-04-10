@@ -30,7 +30,7 @@ Scott van Looy
 
 Summary
 ---------------
-Scott is a specialist in front end web technologies and implementation. He prefers leading by example and as such is a very hands-on coder, believing that the quality of the product is paramount and happy to share his knowledge with the team. 
+Scott is a specialist in front end web technologies and implementation. He prefers leading by example and as such is a very hands-on coder, believing that the quality of the product is paramount and happy to share his knowledge with the team.
 
 He is an active participant in peer reviews and cross browser testing.
 
@@ -68,12 +68,30 @@ Additionally
 <li>Adobe CQ/Sightly: 1 year
 </ul></tr></table>
 
-Work Experience
+Recent Work
 ---------------
-<hr>
-**Zalando via Futurice** 2016/04
+<br>
+**Hermès via AKQA (Contract)** 2016/06 - 2017/04
 
-Creating https://jobs.zalando.de with a small team. Updated their gulp workflow for livereload, enabling us to work faster as this was a tight deadline with a small team. 
+Creating a new ecommerce website for Hèrmes brand
+
+Technologies used: Drupal, PHP, gulp, SASS, ES6.
+<hr>
+**Q Berlin Questions for Curages (Contract)** 2017/02 - 2017/03
+
+Creating https://q.berlin - a custom WordPress theme.
+
+Technologies used: Wordpress, PHP, MySQL, gulp, SASS, ES6.
+<hr>
+**Submerge Festival (Pro Bono)** 2016/08 - 2016/11
+
+Rebuilding https://www.submergefestival.co.uk/ - from 3rd party design. A custom WordPress theme.
+
+Technologies used: Wordpress, PHP, MySQL, gulp, SASS, ES6.
+<hr>
+**Zalando via Futurice (Contract)** 2016/04
+
+Creating https://jobs.zalando.de with a small team. Updated their gulp workflow for livereload, enabling us to work faster as this was a tight deadline with a small team.
 
 Technologies used: Greenhouse API, Candidata, swig, gulp, SASS, React.
 <hr>
@@ -116,11 +134,11 @@ Technologies used: HTML5, CSS3, ECMAScript 5. Browser support included all major
 
 **Volkswagen Motorcars** 2010/07 - 2012/06
 
-Front end lead on the VW configurator: Leading a front end development team of 4 based in London. This is a single page app, Scott wrote a custom JS MVC framework to power the front end. The configurator is powered by realtime factory inventory data so configuring and accessorizing a car is in theory entirely possible online, although the client didn't want a "buy" button as they assumed their relationships with dealers would suffer. 
+Front end lead on the VW configurator: Leading a front end development team of 4 based in London. This is a single page app, Scott wrote a custom JS MVC framework to power the front end. The configurator is powered by realtime factory inventory data so configuring and accessorizing a car is in theory entirely possible online, although the client didn't want a "buy" button as they assumed their relationships with dealers would suffer.
 
-Many weakly coupled components on the page communicated changes to the car configuration via an event driven system. Real time data came from VW's own back end systems via SOAP which was converted as-is to JSON for the front end to consume. 
+Many weakly coupled components on the page communicated changes to the car configuration via an event driven system. Real time data came from VW's own back end systems via SOAP which was converted as-is to JSON for the front end to consume.
 
-Version 1 was launched at the start of October 2010 in the US market as a static HTML website powered by JSON services. Version 2 was retooled to sit upon Liferay CMS for personalisation and went on to be launched in multiple markets in late 2012. It is still used today in many markets. 
+Version 1 was launched at the start of October 2010 in the US market as a static HTML website powered by JSON services. Version 2 was retooled to sit upon Liferay CMS for personalisation and went on to be launched in multiple markets in late 2012. It is still used today in many markets.
 
 Technologies used:
 HTML, CSS, Javascript, Photoshop
@@ -130,15 +148,15 @@ HTML, CSS, Javascript, Photoshop
 
 **Nokia** 2009/02 - 2010/07
 
-Web developer on the Ovi Maps core team for Nokia working with 7 others out of Nokia's Berlin office. 
+Web developer on the Ovi Maps core team for Nokia working with 7 others out of Nokia's Berlin office.
 
-Scott started on this project as a web developer working in the scrum team under our scrum master. By the end of the project he was scrum master as well as lead developer. 
+Scott started on this project as a web developer working in the scrum team under our scrum master. By the end of the project he was scrum master as well as lead developer.
 
-Nokia had bought Navteq and decided to create an online mapping experience along the lines of Google maps. They had invested money in developing a browser plugin that would allow maps and navigation to work seamlessly in the browser. 
+Nokia had bought Navteq and decided to create an online mapping experience along the lines of Google maps. They had invested money in developing a browser plugin that would allow maps and navigation to work seamlessly in the browser.
 
-A few months after Scott joined, it became clear that the existing event driven framework that ran the separate modules that made up the Ovi maps web experience wasn't performing very well once the team had moved away from the browser plugin and implemented the newly created Javascript maps API and tile maps. He proposed a radical solution to the then head of Ovi Maps - namely that the team be split in two. He suggested four of the team could spend two months building a brand new proof of concept Javascript framework, built for speed from the ground up and the rest of the team would continue to work on the existing framework in case the first team were delayed or failed. After one month of work and seeing the amazing speed of the first team had had written, the original project was canned and the "Cheetah" framework was born, everyone switching to work full time on the prototype. 
+A few months after Scott joined, it became clear that the existing event driven framework that ran the separate modules that made up the Ovi maps web experience wasn't performing very well once the team had moved away from the browser plugin and implemented the newly created Javascript maps API and tile maps. He proposed a radical solution to the then head of Ovi Maps - namely that the team be split in two. He suggested four of the team could spend two months building a brand new proof of concept Javascript framework, built for speed from the ground up and the rest of the team would continue to work on the existing framework in case the first team were delayed or failed. After one month of work and seeing the amazing speed of the first team had had written, the original project was canned and the "Cheetah" framework was born, everyone switching to work full time on the prototype.
 
-This was an event driven MVC front end Javascript framework utilising prototypal inheritance and weakly coupled front end components communicating via an events object. The Javascript was then concatenated and minified using Google's Closure compiler and shipped as a single JS file. 
+This was an event driven MVC front end Javascript framework utilising prototypal inheritance and weakly coupled front end components communicating via an events object. The Javascript was then concatenated and minified using Google's Closure compiler and shipped as a single JS file.
 
 Initially loading just enough Javascript to power the initial view, using the proxy pattern, the other modules could then be loaded in at runtime transparently to the views, with each view's code being downloaded and initialised on demand.
 
