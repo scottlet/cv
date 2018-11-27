@@ -1,3 +1,153 @@
+<style>
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    color: #737373;
+    background-color: white;
+    margin: 10px 13px 10px 13px;
+    padding: 50px 30px;
+}
+table {
+	margin: 10px 0 15px 0;
+	border-collapse: collapse;
+}
+td,th {
+	border: 1px solid #ddd;
+	padding: 3px 10px;
+}
+th {
+	padding: 5px 10px;
+}
+
+a {
+    color: #0069d6;
+}
+a:hover {
+    color: #0050a3;
+    text-decoration: none;
+}
+a img {
+    border: none;
+}
+p {
+    margin-bottom: 9px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #404040;
+    line-height: 36px;
+}
+h1 {
+    margin-bottom: 18px;
+    font-size: 30px;
+}
+h2 {
+    font-size: 24px;
+}
+h3 {
+    font-size: 18px;
+}
+h4 {
+    font-size: 16px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 13px;
+}
+hr {
+    margin: 0 0 19px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+}
+blockquote {
+    padding: 13px 13px 21px 15px;
+    margin-bottom: 18px;
+    font-family:georgia,serif;
+    font-style: italic;
+}
+blockquote:before {
+    content:"\201C";
+    font-size:40px;
+    margin-left:-10px;
+    font-family:georgia,serif;
+    color:#eee;
+}
+blockquote p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+    margin-bottom: 0;
+    font-style: italic;
+}
+code, pre {
+    font-family: Monaco, Andale Mono, Courier New, monospace;
+}
+code {
+    background-color: #fee9cc;
+    color: rgba(0, 0, 0, 0.75);
+    padding: 1px 3px;
+    font-size: 12px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+pre {
+    display: block;
+    padding: 14px;
+    margin: 0 0 18px;
+    line-height: 16px;
+    font-size: 11px;
+    border: 1px solid #d9d9d9;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+pre code {
+    background-color: #fff;
+    color:#737373;
+    font-size: 11px;
+    padding: 0;
+}
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:10px auto;
+    }
+}
+@media print {
+	body,code,pre code,h1,h2,h3,h4,h5,h6 {
+		color: black;
+	}
+	table, pre {
+		page-break-inside: avoid;
+	}
+}
+</style>
 <img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_3203.jpg" align="right" width="240" style="border-radius:120px">
 
 Scott van Looy
@@ -21,7 +171,7 @@ Scott van Looy
 	</tr>
 	<tr>
 		<td>Tel:</td>
-		<td>+49 172 272 0189</td>
+		<td>+49 1511 269 1574</td>
 	</tr>
 	<tr>
 		<td>Email:</td>
@@ -62,7 +212,8 @@ Additionally
 <table width="100%"><tr><td width="50%"><ul>
 <li>Adobe suite (Photoshop/Illustrator/InDesign): 10+ years</li>
 <li>SQL: (SQL Server and MySQL): 10 years</li>
-<li>JSP: 10 years</li></ul>
+<li>JSP: 10 years</li>
+<li>AEM: 2 years</li></ul>
 </td><td width="50%"><ul>
 <li>Linux/Apache/etc devops: 10 years</li>
 <li>MongoDB: 2 years</li>
@@ -72,13 +223,40 @@ Additionally
 
 Recent Work
 ---------------
-<br>
+
+**Kenza (Contract)** 2018/08 - present
+
+Creating Corporate website
+
+Technologies used: Gulp, Wordpress, HTML5 Canvas, CSS3, Video, Sound API, vanilla Javascript.
+<hr>
+
+**Siemens via AKQA (Contract)** 2018/04 - 2018/06
+
+Creating Canvas animation for an app
+
+Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.
+<hr>
+
+**SAP via TLGG (Contract)** 2018/01 - 2018/04
+
+Creating https://sap.com/light-to-innovation
+
+Technologies used: Gulp, Handlebars, HTML5, CSS3, H265, vanilla Javascript.
+<hr>
+
+**Zalando (Contract)** 2017/04 - 2017/12
+
+One of a team creating a prototype of a new shopping experience.
+
+Technologies used: Node, Make, SASS, ES6 HTML5, CSS3, vanilla Javascript.
+<hr>
 
 **Hermès via AKQA (Contract)** 2016/06 - 2017/04
 
-Creating a new ecommerce website for Hèrmes brand
+One of a team who created http://hermes.com for Hèrmes in Paris
 
-Technologies used: Drupal, PHP, gulp, SASS, ES6.
+Technologies used: Drupal, PHP, gulp, SASS, ES6 HTML5, CSS3, jQuery.
 <hr>
 
 **Q Berlin Questions for Curages (Contract)** 2017/02 - 2017/03
@@ -150,7 +328,6 @@ Version 1 was launched at the start of October 2010 in the US market as a static
 Technologies used:
 HTML, CSS, Javascript, Photoshop
 
-[http://app.volkswagen.de/ihdcc/de/configurator.html](http://app.volkswagen.de/ihdcc/de/configurator.html)
 <hr>
 
 **Nokia** 2009/02 - 2010/07
