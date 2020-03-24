@@ -150,7 +150,7 @@ sup {
 }
 -->
 </style>
-<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_3203.jpg" align="right" width="240" style="border-radius:120px">
+<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_3203.jpg" style="border-radius:120px; width:240px; float:right; margin: 0; padding: 0; display: block;">
 
 Scott van Looy
 ---------------
@@ -226,11 +226,24 @@ Additionally
 Recent Work
 ---------------
 
-**Kenza (Contract)** 2018/08 - present
+**Kenza (Contract - solo)** 2018/08 - present
 
-Creating Corporate website. https://kenza.io
+Head of technology. Built https://kenza.io
 
-Technologies used: Gulp, Wordpress, HTML5 Canvas, CSS3, Video, Sound API, vanilla Javascript.
+Technologies used: Gulp, Wordpress, HTML5 Canvas, CSS3, Video, Sound API, ES6, React.
+<hr>
+
+**Sportsvertise (Contract - solo)** 2018/08 - 2020/02
+
+Senior Engineer. Creating single page WebApp. Launching soon https://sportsvertise.com
+
+Technologies used: Gulp, Wordpress, HTML5, CSS3, Video, Web components, ES6.
+<hr>
+
+**Submerge via ojoho (contract - solo)** 2018/09 - 2019/02
+
+Festival and corporate website. https://submerge.me
+
 <hr>
 
 **Siemens via AKQA (Contract)** 2018/04 - 2018/06
@@ -240,7 +253,7 @@ Creating Canvas animation for an app
 Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.
 <hr>
 
-**SAP via TLGG (Contract)** 2018/01 - 2018/04
+**SAP via TLGG (Contract - solo)** 2018/01 - 2018/04
 
 Creating http://sap.com/dmc/exp/2018-04-leonardo/index.html
 
@@ -249,7 +262,7 @@ Technologies used: Gulp, Handlebars, HTML5, CSS3, H265, vanilla Javascript.
 
 **Zalando (Contract)** 2017/04 - 2017/12
 
-One of a team creating a prototype of a new shopping experience.
+Senior Engineer. One of a team creating a prototype of a new shopping experience.
 
 Technologies used: Node, Make, SASS, ES6 HTML5, CSS3, vanilla Javascript.
 <hr>
@@ -261,7 +274,7 @@ One of a team who created http://hermes.com for Hèrmes in Paris
 Technologies used: Drupal, PHP, gulp, SASS, ES6 HTML5, CSS3, jQuery.
 <hr>
 
-**Q Berlin Questions for Curages (Contract)** 2017/02 - 2017/03
+**Q Berlin Questions for Curages (Contract - solo)** 2017/02 - 2017/03
 
 Creating https://q.berlin - a custom WordPress theme.
 
@@ -270,7 +283,7 @@ Technologies used: Wordpress, PHP, MySQL, gulp, SASS, ES6.
 
 **Submerge Festival (Pro Bono)** 2016/08 - 2016/11
 
-Rebuilding https://www.submergefestival.co.uk/ - from 3rd party design. A custom WordPress theme.
+Rebuilding https://2016.submergefestival.co.uk - from 3rd party design. A custom WordPress theme.
 
 Technologies used: Wordpress, PHP, MySQL, gulp, SASS, ES6.
 <hr>

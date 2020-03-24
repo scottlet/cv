@@ -1,0 +1,12 @@
+{
+    "name": "cv-scott-van-looy",
+    "version": "1.7.9",
+    "scripts": {
+        "refresh": "cat README.md | md-to-pdf --pdf-options '{ \"format\": \"A4\", \"margin\": \"0mm\" }' > cv.pdf & marked README.md > cv.html"
+    },
+    "dependencies": {
+        "markdown-pdf": "^10.0.0",
+        "marked": "^0.8.2",
+        "md-to-pdf": "^3.0.0"
+    }
+}
