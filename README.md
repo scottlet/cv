@@ -228,7 +228,7 @@ Recent Work
 
 **Kenza (Contract)** 2018/08 - present
 
-Creating Corporate website
+Creating Corporate website. https://kenza.io
 
 Technologies used: Gulp, Wordpress, HTML5 Canvas, CSS3, Video, Sound API, vanilla Javascript.
 <hr>
