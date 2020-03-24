@@ -150,7 +150,7 @@ sup {
 }
 -->
 </style>
-<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_3203.jpg" style="border-radius:120px; width:240px; float:right; margin: 0; padding: 0; display: block;">
+<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_3203.jpg" width="240" align="right" style="border-radius:120px; width:240px; float:right; margin: 0; padding: 0; display: block;">
 
 Scott van Looy
 ---------------
