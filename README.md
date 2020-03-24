@@ -1,4 +1,5 @@
 <style>
+<!---
 h1,
 h2,
 h3,
@@ -20,15 +21,15 @@ body {
     padding: 50px 30px;
 }
 table {
-	margin: 10px 0 15px 0;
-	border-collapse: collapse;
+    margin: 10px 0 15px 0;
+    border-collapse: collapse;
 }
 td,th {
-	border: 1px solid #ddd;
-	padding: 3px 10px;
+    border: 1px solid #ddd;
+    padding: 3px 10px;
 }
 th {
-	padding: 5px 10px;
+    padding: 5px 10px;
 }
 
 a {
@@ -131,7 +132,7 @@ sup {
     line-height: 0;
 }
 * {
-	-webkit-print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
 }
 @media screen and (min-width: 914px) {
     body {
@@ -140,43 +141,44 @@ sup {
     }
 }
 @media print {
-	body,code,pre code,h1,h2,h3,h4,h5,h6 {
-		color: black;
-	}
-	table, pre {
-		page-break-inside: avoid;
-	}
+    body,code,pre code,h1,h2,h3,h4,h5,h6 {
+        color: black;
+    }
+    table, pre {
+        page-break-inside: avoid;
+    }
 }
+-->
 </style>
 <img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_3203.jpg" align="right" width="240" style="border-radius:120px">
 
 Scott van Looy
 ---------------
 <table width="60%">
-	<tr>
-		<td width="60%">Location:</td>
-		<td width="40%">Berlin, Germany</td>
-	</tr>
-	<tr>
-		<td>Nationality:</td>
-		<td>British</td>
-	</tr>
-	<tr>
-		<td>Professional IT experience since</td>
-		<td>1995</td>
-	</tr>
-	<tr>
-		<td>Year of Birth:</td>
-		<td>1974</td>
-	</tr>
-	<tr>
-		<td>Tel:</td>
-		<td>+49 1511 269 1574</td>
-	</tr>
-	<tr>
-		<td>Email:</td>
-		<td>s<span></span>cott@ethosuk.net</td>
-	</tr>
+    <tr>
+        <td width="60%">Location:</td>
+        <td width="40%">Berlin, Germany</td>
+    </tr>
+    <tr>
+        <td>Nationality:</td>
+        <td>British</td>
+    </tr>
+    <tr>
+        <td>Professional IT experience since</td>
+        <td>1995</td>
+    </tr>
+    <tr>
+        <td>Year of Birth:</td>
+        <td>1974</td>
+    </tr>
+    <tr>
+        <td>Tel:</td>
+        <td>+49 1511 269 1574</td>
+    </tr>
+    <tr>
+        <td>Email:</td>
+        <td>s<span></span>cott@ethosuk.net</td>
+    </tr>
 </table>
 
 Summary
@@ -240,7 +242,7 @@ Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.
 
 **SAP via TLGG (Contract)** 2018/01 - 2018/04
 
-Creating https://sap.com/light-to-innovation
+Creating http://sap.com/dmc/exp/2018-04-leonardo/index.html
 
 Technologies used: Gulp, Handlebars, HTML5, CSS3, H265, vanilla Javascript.
 <hr>
