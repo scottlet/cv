@@ -189,42 +189,55 @@ He is an active participant in peer reviews and cross browser testing.
 
 An expert in Javascript, having written his own libraries and frameworks in the past, he has recently been specialising in front end web performance, writing an article for [DotNET magazine in 2014](http://www.creativebloq.com/netmag/5-tips-creating-simpler-and-speedier-websites-81412746) and  [speaking](http://www.techinsight.io/event/berlin-november-2013/) [at](http://www.techinsight.io/event/london-march-2014/) [a](http://www.techinsight.io/event/berlin-august-2014/) [few](http://www.techinsight.io/event/amsterdam-june-2015/) [events](http://www.techinsight.io/event/berlin-june-2016/).
 
-Scott has worked primarily with the following technologies: Javascript (including ECMAScript 6), NodeJS, HTML5 and CSS3 and as a consequence has also worked with Grunt, Gulp, SASS, Node, MongoDB, Express (3.x/4.x).
+Scott has worked primarily with the following technologies: javascript, nodejs, html5 and css3 and as a consequence has also worked with Gulp, SASS, Node, MongoDB, Express, React.
 
 Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](https://twitter.com/svanlooy).
 
 Expert in
 ---------------
 <table width="100%"><tr><td width="50%"><ul>
-<li>Javascript (inc ES6): 21 years</li>
-<li>CSS (inc CSS3): 20 years</li>
-<li>HTML (inc HTML5): 22 years</li>
-<li>JSON: 6 years</li>
-<li>NodeJS (inc Express): 5 years</li></ul>
+<li>javascript 20+ years</li>
+<li>css 20+ years</li>
+<li>html 20+ years</li>
+<li>json 10+ years</li>
+<li>NodeJS 5+ years</li></ul>
 </td><td width="50%"><ul>
-<li>EJS: 5 years</li>
-<li>SASS (inc Compass, Bourbon): 4 years</li>
-<li>Handlebars: 3 years</li>
-<li>Grunt: 3 years</li>
-<li>Gulp: 2 year</li>
+<li>EJS 5+ years</li>
+<li>SASS 5+ years</li>
+<li>Handlebars 5+ years</li>
+<li>React 2 years</li>
+<li>Gulp 5+ years</li>
 </ul></td></tr></table>
 
 Additionally
 ---------------
 <table width="100%"><tr><td width="50%"><ul>
-<li>Adobe suite (Photoshop/Illustrator/InDesign): 10+ years</li>
-<li>SQL: (SQL Server and MySQL): 10 years</li>
-<li>JSP: 10 years</li>
-<li>AEM: 2 years</li></ul>
+<li>Adobe Creative Cloud 10+ years</li>
+<li>SQL Server (+MariaDB) 10 years</li>
+<li>JSP 10 years</li>
+<li>AEM 2 years</li></ul>
 </td><td width="50%"><ul>
-<li>Linux/Apache/etc devops: 10 years</li>
-<li>MongoDB: 2 years</li>
-<li>CouchDB: 1 year</li>
-<li>Adobe CQ/Sightly: 1 year</li>
+<li>Devops 10 years</li>
+<li>MongoDB 5+ years</li>
+<li>CouchDB 1 year</li>
+<li>Adobe CQ 1 year</li>
 </ul></td></tr></table>
 
 Recent Work
 ---------------
+
+**AKQA (Contract)** 2020/04
+
+Team lead IWC Schaffhausen SPA microsite. https://iwc.com/portugieser2020/en/site
+
+Technologies used: React, ESNext, Netlify, Cloudinary, Gatsby, Github.
+<hr>
+
+**Primer (Contract)** 2019/07 - 2019/09
+
+Working on B2B AI tool for Primer clients. Info about Primer: https://primer.ai
+
+Technologies used: React, ES6, Github, Greensock.
 
 **Kenza (Contract - solo)** 2018/08 - present
 
@@ -272,13 +285,6 @@ Technologies used: Node, Make, SASS, ES6 HTML5, CSS3, vanilla Javascript.
 One of a team who created http://hermes.com for Hèrmes in Paris
 
 Technologies used: Drupal, PHP, gulp, SASS, ES6 HTML5, CSS3, jQuery.
-<hr>
-
-**Q Berlin Questions for Curages (Contract - solo)** 2017/02 - 2017/03
-
-Creating https://q.berlin - a custom WordPress theme.
-
-Technologies used: Wordpress, PHP, MySQL, gulp, SASS, ES6.
 <hr>
 
 **Submerge Festival (Pro Bono)** 2016/08 - 2016/11
