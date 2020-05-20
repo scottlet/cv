@@ -1,6 +1,6 @@
 {
     "name": "cv-scott-van-looy",
-    "version": "1.8.0",
+    "version": "1.8.1",
     "scripts": {
         "refresh": "cat README.md | md-to-pdf --pdf-options '{ \"format\": \"A4\", \"margin\": \"0mm\" }' > cv.pdf & marked README.md > cv.html"
     },

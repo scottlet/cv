@@ -228,34 +228,34 @@ Recent Work
 
 **AKQA (Contract)** 2020/04
 
-Team lead IWC Schaffhausen SPA microsite. https://iwc.com/portugieser2020/en/site
+Team lead IWC Schaffhausen SPA microsite. <a href="https://www.iwc.com/portugieser2020/en/site" target="_blank">iwc.com/portugieser2020/en/site</a>
 
 Technologies used: React, ESNext, Netlify, Cloudinary, Gatsby, Github.
 <hr>
 
 **Primer (Contract)** 2019/07 - 2019/09
 
-Working on B2B AI tool for Primer clients. Info about Primer: https://primer.ai
+Working on B2B AI tool for Primer clients. Info about Primer: <a target="_blank" href="https://primer.ai" target="_blank">primer.ai</a>
 
 Technologies used: React, ES6, Github, Greensock.
 
 **Kenza (Contract - solo)** 2018/08 - present
 
-Head of technology. Built https://kenza.io
+Head of technology. Built <a target="_blank" href="https://kenza.io" target="_blank">kenza.io</a>
 
 Technologies used: Gulp, Wordpress, HTML5 Canvas, CSS3, Video, Sound API, ES6, React.
 <hr>
 
 **Sportsvertise (Contract - solo)** 2018/08 - 2020/02
 
-Senior Engineer. Creating single page WebApp. Launching soon https://sportsvertise.com
+Senior Engineer. Creating single page WebApp. Launching soon <a target="_blank" href="https://sportsvertise.com" target="_blank">sportsvertise.com</a>
 
 Technologies used: Gulp, Wordpress, HTML5, CSS3, Video, Web components, ES6.
 <hr>
 
 **Submerge via ojoho (contract - solo)** 2018/09 - 2019/02
 
-Festival and corporate website. https://submerge.me
+Festival and corporate website. <a target="_blank" href="https://submerge.me" target="_blank">submerge.me</a>
 
 <hr>
 
@@ -268,7 +268,7 @@ Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.
 
 **SAP via TLGG (Contract - solo)** 2018/01 - 2018/04
 
-Creating http://sap.com/dmc/exp/2018-04-leonardo/index.html
+Creating <a target="_blank" href="http://sap.com/dmc/exp/2018-04-leonardo/index.html" target="_blank">SAP - A Light to Innovation</a>
 
 Technologies used: Gulp, Handlebars, HTML5, CSS3, H265, vanilla Javascript.
 <hr>
@@ -282,21 +282,21 @@ Technologies used: Node, Make, SASS, ES6 HTML5, CSS3, vanilla Javascript.
 
 **Hermès via AKQA (Contract)** 2016/06 - 2017/04
 
-One of a team who created http://hermes.com for Hèrmes in Paris
+One of a team who created <a target="_blank" href="https://hermes.com" target="_blank">hermes.com</a> for Hèrmes
 
 Technologies used: Drupal, PHP, gulp, SASS, ES6 HTML5, CSS3, jQuery.
 <hr>
 
 **Submerge Festival (Pro Bono)** 2016/08 - 2016/11
 
-Rebuilding https://2016.submergefestival.co.uk - from 3rd party design. A custom WordPress theme.
+Rebuilding <a target="_blank" href="https://2016.submergefestival.co.uk" target="_blank">submergefestival.co.uk</a> - from 3rd party design. A custom WordPress theme.
 
 Technologies used: Wordpress, PHP, MySQL, gulp, SASS, ES6.
 <hr>
 
 **Zalando via Futurice (Contract)** 2016/04
 
-Creating https://jobs.zalando.de with a small team. Updated their gulp workflow for livereload, enabling us to work faster as this was a tight deadline with a small team.
+Creating <a target="_blank" href="https://jobs.zalando.de" target="_blank">jobs.zalando.de</a> with a small team. Updated their gulp workflow for livereload, enabling us to work faster as this was a tight deadline with a small team.
 
 Technologies used: Greenhouse API, Candidata, swig, gulp, SASS, React.
 <hr>
@@ -335,7 +335,7 @@ Included 2 weeks of training existing front end developers and interviewing fron
 
 Technologies used: HTML5, CSS3, ECMAScript 5. Browser support included all major vendors and even IE8. Optimised for mobile performance.
 
-[http://www.panerai.com/](https://www.rolls-roycemotorcars.com/)
+[http://www.panerai.com/](http://www.panerai.com/)
 <hr>
 
 **Volkswagen Motorcars** 2010/07 - 2012/06
