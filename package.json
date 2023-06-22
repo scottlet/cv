@@ -5,8 +5,8 @@
         "refresh": "cat README.md | md-to-pdf --pdf-options '{ \"format\": \"A4\", \"margin\": \"0mm\" }' > cv.pdf & marked README.md > cv.html"
     },
     "dependencies": {
-        "markdown-pdf": "^10.0.0",
-        "marked": "^1.1.0",
-        "md-to-pdf": "^3.1.0"
+        "markdown-pdf": "^11.0.0",
+        "marked": "^5.1.0",
+        "md-to-pdf": "^5.2.4"
     }
 }
