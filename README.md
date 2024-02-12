@@ -25,7 +25,8 @@ table {
     border-collapse: collapse;
 }
 td,th {
-    border: 1px solid #ddd;
+
+    border: none;
     padding: 3px 10px;
 }
 th {
@@ -153,14 +154,17 @@ sup {
 }
 -->
 </style>
-<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_0396.jpg" width="240" align="right" style="border-radius:120px; width:240px; float:right; margin: 0; padding: 0; display: block;">
+
 
 # Scott van Looy
 
-<table width="60%">
-    <tr>
-        <td width="60%">Location:</td>
-        <td width="40%">Berlin, Germany (Permanent residency)</td>
+<table width="100%">
+    <tr style="border: none !important">
+        <td>Location:</td>
+        <td>Berlin, Germany (Permanent residency)</td>
+        <td rowspan="6" width="25%" style="border: none !important">
+        <img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_0396.jpg" width="200"  style="border-radius:100px; width:200px; float:right; margin: 0; padding: 0; display: block;">
+        </td>
     </tr>
     <tr>
         <td>Nationality:</td>
@@ -183,6 +187,7 @@ sup {
         <td>s<span></span>cott@ethosuk.net</td>
     </tr>
 </table>
+<br style="clear:both" />
 
 ## Summary
 
@@ -198,7 +203,7 @@ Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](ht
 
 ## Expert in
 
-<table width="100%"><tr><td width="50%"><ul>
+<table width="60%"><tr><td width="50%"><ul>
 <li>Typescript 3+ years</li>
 <li>React 4+ years</li>
 <li>GraphQL 4+ years</li>
@@ -218,7 +223,7 @@ Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](ht
 
 ## Additionally
 
-<table width="100%"><tr><td width="50%"><ul>
+<table width="60%"><tr><td width="50%"><ul>
 
 <li>Adobe Creative Cloud 10+ years</li>
 <li>SQL Server (+MariaDB) 10 years</li>
