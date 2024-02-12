@@ -73,6 +73,9 @@ h5 {
 h6 {
     font-size: 13px;
 }
+.big {
+    border: 2px solid #36454F;
+}
 hr {
     margin: 0 0 19px;
     border: 0;
@@ -150,14 +153,14 @@ sup {
 }
 -->
 </style>
-<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_3203.jpg" width="240" align="right" style="border-radius:120px; width:240px; float:right; margin: 0; padding: 0; display: block;">
+<img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_0396.jpg" width="240" align="right" style="border-radius:120px; width:240px; float:right; margin: 0; padding: 0; display: block;">
 
-Scott van Looy
----------------
+# Scott van Looy
+
 <table width="60%">
     <tr>
         <td width="60%">Location:</td>
-        <td width="40%">Berlin, Germany</td>
+        <td width="40%">Berlin, Germany (Permanent residency)</td>
     </tr>
     <tr>
         <td>Nationality:</td>
@@ -181,135 +184,135 @@ Scott van Looy
     </tr>
 </table>
 
-Summary
----------------
+## Summary
+
 Scott is a specialist in front end web technologies and implementation. He prefers leading by example and as such is a very hands-on coder, believing that the quality of the product is paramount and happy to share his knowledge with the team.
 
 He is an active participant in peer reviews and cross browser testing.
 
-An expert in Javascript, having written his own libraries and frameworks in the past, he has recently been specialising in front end web performance, writing an article for [DotNET magazine in 2014](http://www.creativebloq.com/netmag/5-tips-creating-simpler-and-speedier-websites-81412746) and  [speaking](http://www.techinsight.io/event/berlin-november-2013/) [at](http://www.techinsight.io/event/london-march-2014/) [a](http://www.techinsight.io/event/berlin-august-2014/) [few](http://www.techinsight.io/event/amsterdam-june-2015/) [events](http://www.techinsight.io/event/berlin-june-2016/).
+An expert in Javascript, having written his own libraries and frameworks in the past, he has recently been specialising in full stack web development using React/NextJS/Typescript.
 
-Scott has worked primarily with the following technologies: javascript, nodejs, html5 and css3 and as a consequence has also worked with Gulp, SASS, Node, MongoDB, Express, React.
+Scott has worked primarily with the following technologies: Typescript, NextJS, React, SASS, Jest, Playwright, Javascript, NodeJS, HTML5 and CSS3 and as a consequence has also worked with PostCSS, Node, MongoDB, Express, Gulp, AWS, Google Cloud.
 
 Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](https://twitter.com/svanlooy).
 
-Expert in
----------------
+## Expert in
+
 <table width="100%"><tr><td width="50%"><ul>
-<li>javascript 20+ years</li>
-<li>css 20+ years</li>
-<li>html 20+ years</li>
-<li>json 10+ years</li>
-<li>NodeJS 5+ years</li></ul>
+<li>Typescript 3+ years</li>
+<li>React 4+ years</li>
+<li>GraphQL 4+ years</li>
+<li>javascript 25+ years</li>
+<li>CSS 25+ years</li>
+<li>HTML 25+ years</li>
+<li>JSON 15+ years</li>
+</ul>
 </td><td width="50%"><ul>
-<li>EJS 5+ years</li>
-<li>SASS 5+ years</li>
+<li>Playwright 1+ year</li>
+<li>NodeJS 9+ years</li>
+<li>SASS 10+ years</li>
+<li>Jest/RTL 5+ years</li>
 <li>Handlebars 5+ years</li>
-<li>React 2 years</li>
-<li>Gulp 5+ years</li>
+
 </ul></td></tr></table>
 
-Additionally
----------------
+## Additionally
+
 <table width="100%"><tr><td width="50%"><ul>
+
 <li>Adobe Creative Cloud 10+ years</li>
 <li>SQL Server (+MariaDB) 10 years</li>
 <li>JSP 10 years</li>
 <li>AEM 2 years</li></ul>
 </td><td width="50%"><ul>
-<li>Devops 10 years</li>
+<li>EJS 10+ years</li>
+<li>Devops 10+ years</li>
+<li>Gulp 5+ years</li>
 <li>MongoDB 5+ years</li>
 <li>CouchDB 1 year</li>
 <li>Adobe CQ 1 year</li>
 </ul></td></tr></table>
 
-Recent Work
----------------
+## Recent Contract Work
+
+
+**Nando’s (Contract)** 2020/06 - 2024/03
+Senior Software Engineer working on the Online Ordering Platform. <a href="https://www.nandos.co.uk/order/search" target="_blank">https://www.nandos.co.uk/order/search</a>
+
+Technologies used: React, Typescript, NextJS, OpenAI ChatGPT, MobX, MST, Jest, Playwright, Cypress, Github, Atlassian, Slack
+<hr>
+
+**Kenza (Contract - solo)** 2018/08 - present
+
+Head of technology. Built <a target="_blank" href="https://kenza.io" target="_blank">kenza.io</a> (Vanilla JS),
+<a href="https://lkqeurope.com" target="_blank">LKQ Europe</a> (Vanilla JS/CSS on top of Acquia SiteStudio/Drupal),
+Branding portal for LKQ Europe and Emotiv brands on Drupal. SAP Leonardo microsite advertising their service.
+
+Technologies used: React, Acquia SiteStudio, Javascript, PHP, Gulp, Wordpress, Drupal, HTML5 Canvas, CSS3, Video API, Sound API.
+
+<hr>
 
 **AKQA (Contract)** 2020/04
 
-Team lead IWC Schaffhausen SPA microsite. <a href="https://www.iwc.com/portugieser2020/en/site" target="_blank">iwc.com/portugieser2020/en/site</a>
+Team lead IWC Schaffhausen SPA microsite. <a href="https://web.archive.org/web/20220630172316/https://www.iwc.com/portugieser2020/en/site" target="_blank">Portugieser 2020 Collection (archive.org link)</a> - unfortunately no longer live, the archive.org version is missing many images.
 
-Technologies used: React, ESNext, Netlify, Cloudinary, Gatsby, Github.
+Technologies used: React, Babel, Netlify, Cloudinary, Gatsby, Github.
 <hr>
 
 **Primer (Contract)** 2019/07 - 2019/09
 
 Working on B2B AI tool for Primer clients. Info about Primer: <a target="_blank" href="https://primer.ai" target="_blank">primer.ai</a>
 
-Technologies used: React, ES6, Github, Greensock.
+Technologies used: React,  Typescript, MobX State Tree, ES6, Github, Greensock.
 
-**Kenza (Contract - solo)** 2018/08 - present
-
-Head of technology. Built <a target="_blank" href="https://kenza.io" target="_blank">kenza.io</a>
-
-Technologies used: Gulp, Wordpress, HTML5 Canvas, CSS3, Video, Sound API, ES6, React.
-<hr>
 
 **Sportsvertise (Contract - solo)** 2018/08 - 2020/02
 
-Senior Engineer. Creating single page WebApp. Launching soon <a target="_blank" href="https://sportsvertise.com" target="_blank">sportsvertise.com</a>
+Senior Engineer. Creating single page WebApp. <a target="_blank" href="https://sportsvertise.com" target="_blank">sportsvertise.com</a>
 
-Technologies used: Gulp, Wordpress, HTML5, CSS3, Video, Web components, ES6.
+Technologies used: HTML5, CSS3, Vanilla JS, HTML5 Video, Web components.
 <hr>
 
 **Submerge via ojoho (contract - solo)** 2018/09 - 2019/02
 
 Festival and corporate website. <a target="_blank" href="https://submerge.me" target="_blank">submerge.me</a>
 
+Technologies used: HTML5, CSS3, Vanilla JS, Video, Wordpress.
 <hr>
 
-**Siemens via AKQA (Contract)** 2018/04 - 2018/06
+
 
 Creating Canvas animation for an app
 
 Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.
 <hr>
 
-**SAP via TLGG (Contract - solo)** 2018/01 - 2018/04
+### Also of note
 
-Creating <a target="_blank" href="http://sap.com/dmc/exp/2018-04-leonardo/index.html" target="_blank">SAP - A Light to Innovation</a>
+**Siemens via AKQA (Contract)** - microsite - 2018/04 - 2018/06
 
-Technologies used: Gulp, Handlebars, HTML5, CSS3, H265, vanilla Javascript.
-<hr>
+**SAP via TLGG (Contract - solo)** - microsite advertising SAP Leonardo - 2018/01 - 2018/04
 
-**Zalando (Contract)** 2017/04 - 2017/12
+**Zalando (Contract)** - Skunkworks team building vanilla JS front end - 2017/04 - 2017/12
 
-Senior Engineer. One of a team creating a prototype of a new shopping experience.
+**Hermès via AKQA (Contract)** - <a target="_blank" href="https://hermes.com" target="_blank">hermes.com</a> Flagship Drupal/Magento eCom site for Hèrmes - 2016/06 - 2017/04
 
-Technologies used: Node, Make, SASS, ES6 HTML5, CSS3, vanilla Javascript.
-<hr>
+**Submerge Festival (Pro Bono)** - Rebuilding <a target="_blank" href="https://2016.submergefestival.co.uk" target="_blank">submergefestival.co.uk</a> - 2016/08 - 2016/11
 
-**Hermès via AKQA (Contract)** 2016/06 - 2017/04
+**Zalando via Futurice (Contract)** - Building [Zalando Jobs](https://jobs.zalando.com) - 2016/04
+<br/><br/>
+<hr class="big">
 
-One of a team who created <a target="_blank" href="https://hermes.com" target="_blank">hermes.com</a> for Hèrmes
+## The Legacy Section
 
-Technologies used: Drupal, PHP, gulp, SASS, ES6 HTML5, CSS3, jQuery.
-<hr>
+Before taking up contracting, Scott spent 9 years as a permie working at AKQA, 4 years as a Technical Architect/Development lead and 5 years as a Senior Web Developer. In this time he has worked on many projects including:
 
-**Submerge Festival (Pro Bono)** 2016/08 - 2016/11
 
-Rebuilding <a target="_blank" href="https://2016.submergefestival.co.uk" target="_blank">submergefestival.co.uk</a> - from 3rd party design. A custom WordPress theme.
+**An as yet unnamed community management tool** 2015/12 - 2016/3
 
-Technologies used: Wordpress, PHP, MySQL, gulp, SASS, ES6.
-<hr>
+Architect/Full stack developer - Integrating with IBM's Watson service, this Node based tool allows Community Managers to work in a much more efficient fashion on Twitter. Taking advantage of IBM's Natural Language Processor and Natural Language Classifier, their Personality Insights service and Sentiment Analysis to offer a semi automatic conversation, enabling CMs to interact with many more end users than previously able.
 
-**Zalando via Futurice (Contract)** 2016/04
-
-Creating <a target="_blank" href="https://jobs.zalando.de" target="_blank">jobs.zalando.de</a> with a small team. Updated their gulp workflow for livereload, enabling us to work faster as this was a tight deadline with a small team.
-
-Technologies used: Greenhouse API, Candidata, swig, gulp, SASS, React.
-<hr>
-
-Scott spent 9 years working at AKQA, 4 years as a Technical Architect/Development lead and 5 years as a Senior Web Developer. In this time he has worked on many projects including:
-
-<hr>
-
-**As yet unnamed community management tool** 2015/12 - 2016/3
-
-Architect/Full stack developer - Integrating with IBM's Watson service, this Node based tool allows Community Managers to work in a much more efficient fashion on Twitter. Taking advantage of IBM's Natural Language Classifier, their Personality Insights service and Sentiment Analysis to offer a semi automatic conversation, enabling CMs to interact with many more end users than previously able to.
-
-Technologies used: HTML5, CSS3, Javascript (ES5 front end, ES6 back end), NodeJS, Express, Passport, jQuery, Handlebars, MongoDB, Twitter API, IBM Bluemix APIs.
+Technologies used: AI, HTML5, CSS3, Javascript (ES5 front end, ES6 back end), NodeJS, Express, Passport, jQuery, Handlebars, MongoDB, Twitter API, IBM Bluemix APIs.
 <hr>
 
 **Rolls-Royce Motor Cars** 2015/06 - 2015/10
@@ -367,6 +370,7 @@ Initially loading just enough Javascript to power the initial view, using the pr
 
 Technologies used:
 HTML, CSS, Javascript, JSON APIs, Nokia Maps JS API, Google Closure Compiler/optimiser/ JSDoc with closure hints for typing. Java.
+
 Personal:
 ---------------
 Scott is a [passionate photographer](https://scottjoycephotography.net]), loves travelling with his camera and enjoys live music and cycling.
