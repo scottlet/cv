@@ -242,9 +242,9 @@ Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](ht
 
 
 **Nando’s (Contract)** 2020/06 - 2024/03
-Senior Software Engineer working on the Online Ordering Platform. <a href="https://www.nandos.co.uk/order/search" target="_blank">https://www.nandos.co.uk/order/search</a>
+Senior Software Engineer working on the Online Ordering Platform. <a href="https://www.nandos.co.uk/order/search" target="_blank">https://www.nandos.co.uk/order/search</a>. As one of the founding members of the Web-Ex team at Nando’s, Scott was instrumental in building the solid foundations of what would become a very successful e-commerce platform for Nando’s. Choosing NextJS for its flexibility, Scott and the team built a world class onine ordering experience that’s giving joy to Nando’s customers across the UK and Ireland for eat-in, collection and delivery orders.
 
-Technologies used: React, Typescript, NextJS, OpenAI ChatGPT, MobX, MST, Jest, Playwright, Cypress, Github, Atlassian, Slack
+Technologies used: React, Typescript, NextJS, graphQL, OpenAI ChatGPT, MobX, MST, Jest, Playwright, Cypress, Github, Atlassian, Slack
 <hr>
 
 **Kenza (Contract - solo)** 2018/08 - present
