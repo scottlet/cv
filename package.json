@@ -2,7 +2,7 @@
     "name": "cv-scott-van-looy",
     "version": "1.9.0",
     "scripts": {
-        "refresh": "mdpdf README.md --gh-style --border-right=0mm --border-left=0mm --border-top=5mm --border-bottom=5mm cv.pdf && marked --gfm README.md > cv.html"
+        "refresh": "mdpdf README.md --border-right=0mm --border-left=0mm --border-top=5mm --border-bottom=5mm cv.pdf && marked --gfm README.md > cv.html"
     },
     "dependencies": {
         "marked": "^12.0.2",
