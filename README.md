@@ -1,5 +1,3 @@
-
-<div style="display: none">
 <style>
 <!--
 h1,
@@ -165,7 +163,6 @@ sup {
 }
 -->
 </style>
-</div>
 
 # Scott van Looy
 
