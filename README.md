@@ -215,7 +215,10 @@ Available on request
 
 
 
-<style>body{font-family: "Helvetica Neue";}</style>
+<style
+  type="text/css">
+  body{font-family:"Helvetica Neue";}
+</style>
 
 
 <style>
