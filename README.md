@@ -213,14 +213,12 @@ References:
 ---------------
 Available on request
 
-
-<div style="color:rgba(0,0,0,0)">
+<sub>
 <style
   type="text/css">
   body{font-family:"Helvetica Neue";}
 </style>
-</div>
-
+</sub>
 <style>
 <!--
 h1,
