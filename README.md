@@ -241,30 +241,30 @@ Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](ht
 ## Recent Contract Work
 
 
-**Nando’s (Contract)** 2020/06 - 2024/03
-Senior Software Engineer working on the Online Ordering Platform. <a href="https://www.nandos.co.uk/order/search" target="_blank">https://www.nandos.co.uk/order/search</a>. As one of the founding members of the Web-Ex team at Nando’s, Scott was instrumental in building the solid foundations of what would become a very successful e-commerce platform for Nando’s. Choosing NextJS for its flexibility, Scott and the team built a world class onine ordering experience that’s giving joy to Nando’s customers across the UK and Ireland for eat-in, collection and delivery orders.
+**Nando’s (Contract)** 2020/06 - 2024/05
+Senior Software Engineer working on the Online Ordering Platform. <a href="https://www.nandos.co.uk/order/search" target="_blank">https://www.nandos.co.uk/order/search</a>. As one of the founding members of the Web Experience team at Nando’s, Scott was instrumental in building the solid foundations of what would become a very successful e-commerce platform for Nando’s. Choosing NextJS for its flexibility, Scott and the team built a world class onine ordering experience that’s giving joy to Nando’s customers across the UK and Ireland for eat-in, collection and delivery orders.
 
-Technologies used: React, Typescript, NextJS, graphQL, OpenAI ChatGPT, MobX, MST, Jest, Playwright, Cypress, Github, Atlassian, Slack
+Technologies used: React, Typescript, NextJS, graphQL, OpenAI ChatGPT, MobX, MST, Jest, Jest-aXe, Playwright, Cypress, Github, SASS modules, Atlassian, Slack
 <hr>
 
 **Kenza (Contract - solo)** 2018/08 - present
 
-Head of technology. Built <a target="_blank" href="https://kenza.io" target="_blank">kenza.io</a> (Vanilla JS),
-<a href="https://lkqeurope.com" target="_blank">LKQ Europe</a> (Vanilla JS/CSS on top of Acquia SiteStudio/Drupal),
+Head of technology. Built <a target="_blank" href="https://kenza.io" target="_blank">kenza.io</a> (Vanilla JS/React/Wordpress/FFmpeg),
+<a href="https://lkqeurope.com" target="_blank">LKQ Europe</a> (Vanilla JS, SASS on top of Acquia SiteStudio/Drupal, FFmpeg),
 Branding portal for LKQ Europe and Emotiv brands on Drupal. SAP Leonardo microsite advertising their service.
 
-Technologies used: React, Acquia SiteStudio, Javascript, PHP, Gulp, Wordpress, Drupal, HTML5 Canvas, CSS3, Video API, Sound API.
+Technologies used: React, Acquia SiteStudio, Javascript, PHP, Gulp, Wordpress, Drupal, HTML5 Canvas, CSS3, Video API, Sound API, ffmpeg.
 
 <hr>
 
-**AKQA (Contract)** 2020/04
+**AKQA Berlin (Contract)** 2020/04
 
 Team lead IWC Schaffhausen SPA microsite. <a href="https://web.archive.org/web/20220630172316/https://www.iwc.com/portugieser2020/en/site" target="_blank">Portugieser 2020 Collection (archive.org link)</a> - unfortunately no longer live, the archive.org version is missing many images.
 
 Technologies used: React, Babel, Netlify, Cloudinary, Gatsby, Github.
 <hr>
 
-**Primer (Contract)** 2019/07 - 2019/09
+**Primer SF (Contract)** 2019/07 - 2019/09
 
 Working on B2B AI tool for Primer clients. Info about Primer: <a target="_blank" href="https://primer.ai" target="_blank">primer.ai</a>
 
@@ -278,23 +278,21 @@ Senior Engineer. Creating single page WebApp. <a target="_blank" href="https://s
 Technologies used: HTML5, CSS3, Vanilla JS, HTML5 Video, Web components.
 <hr>
 
-**Submerge via ojoho (contract - solo)** 2018/09 - 2019/02
+**Submerge (contract - solo)** Various between 2018/09 - present
 
-Festival and corporate website. <a target="_blank" href="https://submerge.me" target="_blank">submerge.me</a>
+Festival and corporate website. Implementing redesign. <a target="_blank" href="https://submerge.me" target="_blank">submerge.me</a>
 
 Technologies used: HTML5, CSS3, Vanilla JS, Video, Wordpress.
 <hr>
 
+**Siemens via AKQA Berlin (Contract)** 2018/04 - 2018/06
 
-
-Creating Canvas animation for an app
+Creating HTML5 Canvas animation for an app
 
 Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.
 <hr>
 
 ### Also of note
-
-**Siemens via AKQA (Contract)** - microsite - 2018/04 - 2018/06
 
 **SAP via TLGG (Contract - solo)** - microsite advertising SAP Leonardo - 2018/01 - 2018/04
 
@@ -310,7 +308,7 @@ Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.
 
 ## The Legacy Section
 
-Before taking up contracting, Scott spent 9 years as a permie working at AKQA, 4 years as a Technical Architect/Development lead and 5 years as a Senior Web Developer. In this time he has worked on many projects including:
+Before taking up contracting, Scott spent 9 years as an employee working at AKQA, 4 years as a Technical Architect/Development lead and 5 years as a Senior Web Developer. In this time he has worked on many projects including:
 
 
 **An as yet unnamed community management tool** 2015/12 - 2016/3
