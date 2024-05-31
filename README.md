@@ -5,7 +5,7 @@
         <td>Location:</td>
         <td>Berlin, Germany (Permanent residency)</td>
         <td rowspan="6" width="25%" style="border: none !important">
-        <img src="https://raw.githubusercontent.com/scottbert/cv/master/IMG_0396.jpg" width="200"  style="border-radius:100px; width:200px; float:right; margin: 0; padding: 0; display: block;">
+        <img src="https://raw.githubusercontent.com/scottlet/cv/master/IMG_0396.jpg" width="200"  style="border-radius:100px; width:200px; float:right; margin: 0; padding: 0; display: block;">
         </td>
     </tr>
     <tr>
