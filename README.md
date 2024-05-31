@@ -214,8 +214,6 @@ References:
 Available on request
 <br /><br /><br />
 <sub>
-
-
 <style>
 <!--
 h1,
