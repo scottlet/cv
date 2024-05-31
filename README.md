@@ -1,160 +1,169 @@
+<div style="display: none">
 <style>
-<!---
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote {
-    margin: 0;
-    padding: 0;
-}
-body {
-    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
-    font-size: 13px;
-    line-height: 18px;
-    color: #737373;
-    background-color: white;
-    margin: 10px 13px 10px 13px;
-    padding: 50px 30px;
-}
-table {
-    margin: 10px 0 15px 0;
-    border-collapse: collapse;
-}
-td,th {
-
-    border: none;
-    padding: 3px 10px;
-}
-th {
-    padding: 5px 10px;
-}
-
-a {
-    color: #0069d6;
-}
-a:hover {
-    color: #0050a3;
-    text-decoration: none;
-}
-a img {
-    border: none;
-}
-p {
-    margin-bottom: 9px;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    color: #404040;
-    line-height: 36px;
-}
-h1 {
-    margin-bottom: 18px;
-    font-size: 30px;
-}
-h2 {
-    font-size: 24px;
-}
-h3 {
-    font-size: 18px;
-}
-h4 {
-    font-size: 16px;
-}
-h5 {
-    font-size: 14px;
-}
-h6 {
-    font-size: 13px;
-}
-.big {
-    border: 2px solid #36454F;
-}
-hr {
-    margin: 0 0 19px;
-    border: 0;
-    border-bottom: 1px solid #ccc;
-}
-blockquote {
-    padding: 13px 13px 21px 15px;
-    margin-bottom: 18px;
-    font-family:georgia,serif;
-    font-style: italic;
-}
-blockquote:before {
-    content:"\201C";
-    font-size:40px;
-    margin-left:-10px;
-    font-family:georgia,serif;
-    color:#eee;
-}
-blockquote p {
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 18px;
-    margin-bottom: 0;
-    font-style: italic;
-}
-code, pre {
-    font-family: Monaco, Andale Mono, Courier New, monospace;
-}
-code {
-    background-color: #fee9cc;
-    color: rgba(0, 0, 0, 0.75);
-    padding: 1px 3px;
-    font-size: 12px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-}
-pre {
-    display: block;
-    padding: 14px;
-    margin: 0 0 18px;
-    line-height: 16px;
-    font-size: 11px;
-    border: 1px solid #d9d9d9;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-}
-pre code {
-    background-color: #fff;
-    color:#737373;
-    font-size: 11px;
-    padding: 0;
-}
-sup {
-    font-size: 0.83em;
-    vertical-align: super;
-    line-height: 0;
-}
-* {
-    -webkit-print-color-adjust: exact;
-}
-@media screen and (min-width: 914px) {
+<!--
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    blockquote {
+        margin: 0;
+        padding: 0;
+    }
     body {
-        width: 854px;
-        margin:10px auto;
+        font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
+        font-size: 13px;
+        line-height: 18px;
+        color: #36454F;
+        background-color: white;
+        margin: 10px 13px 10px 13px;
+        padding: 50px 30px;
     }
-}
-@media print {
-    body,code,pre code,h1,h2,h3,h4,h5,h6 {
-        color: black;
+    table {
+        margin: 10px 0 15px 0;
+        border-collapse: collapse;
     }
-    table, pre {
-        page-break-inside: avoid;
+    td,th {
+
+        border: none;
+        padding: 3px 10px;
     }
-}
+    th {
+        padding: 5px 10px;
+    }
+
+    a {
+        color: #0069d6;
+    }
+    a:hover {
+        color: #0050a3;
+        text-decoration: none;
+    }
+    a img {
+        border: none;
+    }
+    p {
+        margin-bottom: 9px;
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #404040;
+        line-height: 36px;
+    }
+    h1 {
+        margin-bottom: 18px;
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 24px;
+    }
+    h3 {
+        font-size: 18px;
+    }
+    h4 {
+        font-size: 16px;
+    }
+    h5 {
+        font-size: 14px;
+    }
+    h6 {
+        font-size: 13px;
+    }
+    .hidden {
+        font-size: 0;
+    }
+    .big {
+        border: 2px solid #36454F;
+    }
+    hr {
+        margin: 0 0 19px;
+        border: 0;
+        border-bottom: 1px solid #ccc;
+    }
+    blockquote {
+        padding: 13px 13px 21px 15px;
+        margin-bottom: 18px;
+        font-family:georgia,serif;
+        font-style: italic;
+    }
+    blockquote:before {
+        content:"\201C";
+        font-size:40px;
+        margin-left:-10px;
+        font-family:georgia,serif;
+        color:#eee;
+    }
+    blockquote p {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 18px;
+        margin-bottom: 0;
+        font-style: italic;
+    }
+    code, pre {
+        font-family: Monaco, Andale Mono, Courier New, monospace;
+    }
+    code {
+        background-color: #fee9cc;
+        color: rgba(0, 0, 0, 0.75);
+        padding: 1px 3px;
+        font-size: 12px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+    }
+    pre {
+        display: block;
+        padding: 14px;
+        margin: 0 0 18px;
+        line-height: 16px;
+        font-size: 11px;
+        border: 1px solid #d9d9d9;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+    pre code {
+        background-color: #fff;
+        color:#737373;
+        font-size: 11px;
+        padding: 0;
+    }
+    sup {
+        font-size: 0.83em;
+        vertical-align: super;
+        line-height: 0;
+    }
+    * {
+        -webkit-print-color-adjust: exact;
+    }
+    @media screen and (min-width: 914px) {
+        body {
+            width: 854px;
+            margin:10px auto;
+        }
+    }
+    @media print {
+        body,code,pre code,h1,h2,h3,h4,h5,h6 {
+            color: black;
+        }
+        table, pre {
+            page-break-inside: avoid;
+        }
+    }
+    .t {
+        padding: 5px;
+        background: #FFD580;
+        margin-bottom: 10px;
+    }
 -->
 </style>
-
+</div>
 
 # Scott van Looy
 
@@ -241,68 +250,62 @@ Scott can be found at [Github](https://github.com/scottlet) and on [Twitter](htt
 ## Recent Contract Work
 
 
-**Nando’s (Contract)** 2020/06 - 2024/05
-Senior Software Engineer working on the Online Ordering Platform. <a href="https://www.nandos.co.uk/order/search" target="_blank">https://www.nandos.co.uk/order/search</a>. As one of the founding members of the Web Experience team at Nando’s, Scott was instrumental in building the solid foundations of what would become a very successful e-commerce platform for Nando’s. Choosing NextJS for its flexibility, Scott and the team built a world class onine ordering experience that’s giving joy to Nando’s customers across the UK and Ireland for eat-in, collection and delivery orders.
+**Nando’s** 2020/06 - 2024/05 <a href="https://www.nandos.co.uk/order/search" target="_blank">Nando’s Online Ordering</a>
 
-Technologies used: React, Typescript, NextJS, graphQL, OpenAI ChatGPT, MobX, MST, Jest, Jest-aXe, Playwright, Cypress, Github, SASS modules, Atlassian, Slack
-<hr>
+Senior Software Engineer working on the Online Ordering Platform. As a founding member of the Web Experience team at Nando’s, Scott was instrumental in building the solid foundations of what would become a very successful e-commerce platform for Nando’s. Choosing NextJS for its flexibility, Scott and the team built a world class onine ordering experience that’s giving joy to Nando’s customers across the UK and Ireland for eat-in, collection and delivery orders.
 
-**Kenza (Contract - solo)** 2018/08 - present
+<div class="t">Technologies used: React, Typescript, NextJS, graphQL, OpenAI ChatGPT, MobX, MST, Jest, Jest-aXe, Playwright, Cypress, Github, SASS modules, Atlassian, Slack</div>
 
-Head of technology. Built <a target="_blank" href="https://kenza.io" target="_blank">kenza.io</a> (Vanilla JS/React/Wordpress/FFmpeg),
-<a href="https://lkqeurope.com" target="_blank">LKQ Europe</a> (Vanilla JS, SASS on top of Acquia SiteStudio/Drupal, FFmpeg),
-Branding portal for LKQ Europe and Emotiv brands on Drupal. SAP Leonardo microsite advertising their service.
+**Kenza (Contract - solo)** 2018/08 - present <a target="_blank" href="https://kenza.io" target="_blank">kenza.io</a>, also <a href="https://lkqeurope.com" target="_blank">LKQ Europe</a>
 
-Technologies used: React, Acquia SiteStudio, Javascript, PHP, Gulp, Wordpress, Drupal, HTML5 Canvas, CSS3, Video API, Sound API, ffmpeg.
+Head of technology. Built both of Kenza’s corporate websites to date as well as various sites for LKQ Europe and their subsidiaries. Also built SAP Leonardo microsite advertising their service.
 
-<hr>
+<div class="t">Technologies used: React, Acquia SiteStudio, Javascript, PHP, Gulp, Wordpress, Drupal, HTML5 Canvas, CSS3, Video API, Sound API, WebGL, FFmpeg.</div>
 
-**AKQA Berlin (Contract)** 2020/04
+**AKQA Berlin (Contract)** 2020/04 <a href="https://web.archive.org/web/20220630172316/https://www.iwc.com/portugieser2020/en/site" target="_blank">Portugieser 2020 Collection (archive.org link)</a> - unfortunately no longer live, the archive.org version is missing many images.
 
-Team lead IWC Schaffhausen SPA microsite. <a href="https://web.archive.org/web/20220630172316/https://www.iwc.com/portugieser2020/en/site" target="_blank">Portugieser 2020 Collection (archive.org link)</a> - unfortunately no longer live, the archive.org version is missing many images.
+Team lead on the IWC Schaffhausen SPA microsite. Very tight deadline and had to work flawlessly in markets including China.
 
-Technologies used: React, Babel, Netlify, Cloudinary, Gatsby, Github.
-<hr>
+<div class="t">Technologies used: React, Babel, Netlify, Cloudinary, Gatsby, Github.</div>
 
 **Primer SF (Contract)** 2019/07 - 2019/09
 
 Working on B2B AI tool for Primer clients. Info about Primer: <a target="_blank" href="https://primer.ai" target="_blank">primer.ai</a>
 
-Technologies used: React,  Typescript, MobX State Tree, ES6, Github, Greensock.
+<div class="t">Technologies used: React,  Typescript, MobX State Tree, ES6, Github, Greensock.</div>
 
 
-**Sportsvertise (Contract - solo)** 2018/08 - 2020/02
+**Sportsvertise (solo)** 2018/08 - 2020/02 <a target="_blank" href="https://sportsvertise.com" target="_blank">sportsvertise.com</a>
 
-Senior Engineer. Creating single page WebApp. <a target="_blank" href="https://sportsvertise.com" target="_blank">sportsvertise.com</a>
+Senior Engineer. Creating SPA for online auction site dealing with selling of sports advertising space.
 
-Technologies used: HTML5, CSS3, Vanilla JS, HTML5 Video, Web components.
-<hr>
+<div class="t">Technologies used: HTML5, CSS3, Vanilla JS, HTML5 Video, Web components.</div>
 
-**Submerge (contract - solo)** Various between 2018/09 - present
 
-Festival and corporate website. Implementing redesign. <a target="_blank" href="https://submerge.me" target="_blank">submerge.me</a>
+**Submerge (solo)** Various between 2018/09 - present <a target="_blank" href="https://submerge.me" target="_blank">submerge.me</a>
 
-Technologies used: HTML5, CSS3, Vanilla JS, Video, Wordpress.
-<hr>
+Festival and corporate website. Implementing redesign.
 
-**Siemens via AKQA Berlin (Contract)** 2018/04 - 2018/06
+<div class="t">Technologies used: HTML5, CSS3, Vanilla JS, Video, Wordpress.</div>
+
+**Siemens via AKQA Berlin** 2018/04 - 2018/06
 
 Creating HTML5 Canvas animation for an app
 
-Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.
-<hr>
+<div class="t">Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.</div>
+
 
 ### Also of note
 
-**SAP via TLGG (Contract - solo)** - microsite advertising SAP Leonardo - 2018/01 - 2018/04
+**SAP via TLGG** - microsite advertising SAP Leonardo - 2018/01 - 2018/04
 
-**Zalando (Contract)** - Skunkworks team building vanilla JS front end - 2017/04 - 2017/12
+**Zalando** - Skunkworks team building vanilla JS front end - 2017/04 - 2017/12
 
-**Hermès via AKQA (Contract)** - <a target="_blank" href="https://hermes.com" target="_blank">hermes.com</a> Flagship Drupal/Magento eCom site for Hèrmes - 2016/06 - 2017/04
+**Hermès via AKQA** - Flagship Drupal/Magento eCommerce site for Hèrmes - 2016/06 - 2017/04 <a target="_blank" href="https://hermes.com" target="_blank">hermes.com</a>
 
-**Submerge Festival (Pro Bono)** - Rebuilding <a target="_blank" href="https://2016.submergefestival.co.uk" target="_blank">submergefestival.co.uk</a> - 2016/08 - 2016/11
+**Submerge Festival** - Rebuilding site - 2016/08 - 2016/11 <a target="_blank" href="https://2016.submergefestival.co.uk" target="_blank">Submerge Festival</a>
 
-**Zalando via Futurice (Contract)** - Building [Zalando Jobs](https://jobs.zalando.com) - 2016/04
+**Zalando via Futurice** - Building <a href="https://jobs.zalando.com" target="_blank">Zalando Jobs</a> - 2016/04
 <br/><br/>
 <hr class="big">
 
@@ -313,12 +316,12 @@ Before taking up contracting, Scott spent 9 years as an employee working at AKQA
 
 **An as yet unnamed community management tool** 2015/12 - 2016/3
 
-Architect/Full stack developer - Integrating with IBM's Watson service, this Node based tool allows Community Managers to work in a much more efficient fashion on Twitter. Taking advantage of IBM's Natural Language Processor and Natural Language Classifier, their Personality Insights service and Sentiment Analysis to offer a semi automatic conversation, enabling CMs to interact with many more end users than previously able.
+Architect/Full stack developer - Integrating with IBM’s Watson service, this Node based tool allows Community Managers to work in a much more efficient fashion on Twitter. Taking advantage of IBM’s Natural Language Processor and Natural Language Classifier, their Personality Insights service and Sentiment Analysis to offer a semi automatic conversation, enabling CMs to interact with many more end users than previously able.
 
-Technologies used: AI, HTML5, CSS3, Javascript (ES5 front end, ES6 back end), NodeJS, Express, Passport, jQuery, Handlebars, MongoDB, Twitter API, IBM Bluemix APIs.
-<hr>
+<div class="t">Technologies used: AI, HTML5, CSS3, Javascript (ES5 front end, ES6 back end), NodeJS, Express, Passport, jQuery, Handlebars, MongoDB, Twitter API, IBM Bluemix APIs (NLP, NLC, Sentiment Analysis, PI).</div>
 
-**Rolls-Royce Motor Cars** 2015/06 - 2015/10
+
+**Rolls-Royce Motor Cars** 2015/06 - 2015/10 <a href="https://www.rolls-roycemotorcars.com" target="_blank">Rolls-Royce Motor Cars</a>
 
 Architect/Front end lead on Rolls-Royce Motorcars - Leading a front-end development team of 5 based in Germany/Ukraine, this was a pretty simple site without much in the way of complex user interactions, the key here was that the site must be smooth and beautiful and fast and feel premium. Working to aggressive deadlines, the final website launch was tied to the launch of a new car, the Rolls-Royce Dawn.
 
@@ -328,51 +331,46 @@ Performance was key, so using the latest draft picture spec and the picturefill 
 
 Project came in on time and under budget. Launched in September 2015.
 
-Technologies used: Gulp, ECMAScript 6, HTML5, jQuery, Picturefill, SVG, PubSubJS, SASS, Babel, ZombieJS, Adobe CQ5 version 6, Sightly, Stash, Slack, Java.
+<div class="t">Technologies used: Gulp, ECMAScript 6, HTML5, jQuery, Picturefill, SVG, PubSubJS, SASS, Babel, ZombieJS, Adobe CQ5 version 6, Sightly, Stash, Slack, Java.</div>
 
-[https://www.rolls-roycemotorcars.com/](https://www.rolls-roycemotorcars.com/)
-<hr>
 
-**Officine Panerai** 2014/01 - 2015/06
+
+**Officine Panerai** 2014/01 - 2015/06 <a href="https://www.panerai.com">Panerai</a>
 
 Front end lead on Panerai - Leading a front-end development team of 5 based in Germany/India, this was a pretty simple site showcasing the work of the Italian watch designers. Customising google maps to give an on brand boutique browsing experience and focussing on front end performance and making the interface smooth and simple to use. Built on Adobe CQ5 version 5. Using the open source jQuery library, the team developed a number of custom jQuery plugins to augment the user experience.
 
 Included 2 weeks of training existing front end developers and interviewing front end candidates in Gurgaon, India.
 
-Technologies used: HTML5, CSS3, ECMAScript 5. Browser support included all major vendors and even IE8. Optimised for mobile performance.
+<div class="t">Technologies used: HTML5, CSS3, ECMAScript 5. Browser support included all major vendors and even IE8. Optimised for mobile performance.</div>
 
-[http://www.panerai.com/](http://www.panerai.com/)
-<hr>
-
-**Volkswagen Motorcars** 2010/07 - 2012/06
-
-Front end lead on the VW configurator: Leading a front end development team of 4 based in London. This is a single page app, Scott wrote a custom JS MVC framework to power the front end. The configurator is powered by realtime factory inventory data so configuring and accessorizing a car is in theory entirely possible online, although the client didn't want a "buy" button as they assumed their relationships with dealers would suffer.
-
-Many weakly coupled components on the page communicated changes to the car configuration via an event driven system. Real time data came from VW's own back end systems via SOAP which was converted as-is to JSON for the front end to consume.
-
-Version 1 was launched at the start of October 2010 in the US market as a static HTML website powered by JSON services. Version 2 was retooled to sit upon Liferay CMS for personalisation and went on to be launched in multiple markets in late 2012. It is still used today in many markets.
-
-Technologies used:
-HTML, CSS, Javascript, Photoshop
 
 <hr>
+
+**Volkswagen Motorcars** 2010/07 - 2012/06 <a href="https://vimeo.com/21666945" target="_blank">Video about the iHDCC Car Configurator</a>
+
+Front end lead on the VW configurator: Leading a front end development team of 4 based in London. This is a single page app, Scott wrote a Javascript based MVC framework to power the front end. The configurator is powered by realtime factory inventory data so configuring and accessorizing a car is entirely possible online, but the client didn’t want a “buy” button as they assumed their relationships with dealers would suffer.
+
+Many weakly coupled components on the page communicated changes to the car configuration via an event based system. Real time data came from VW’s own back end systems via SOAP which was converted as-is to JSON for the front end to consume.
+
+Version 1 was launched at the start of October 2010 in the US market as a static HTML website powered by JSON services. Version 2 was retooled to sit upon Liferay CMS for personalisation and went on to be launched in multiple markets in late 2012.
+
+<div class="t">Technologies used: HTML, CSS, Javascript, Photoshop</div>
 
 **Nokia** 2009/02 - 2010/07
 
-Web developer on the Ovi Maps core team for Nokia working with 7 others out of Nokia's Berlin office.
+Web developer on the Ovi Maps core team for Nokia working with 7 others out of Nokia’s Berlin office.
 
 Scott started on this project as a web developer working in the scrum team under our scrum master. By the end of the project he was scrum master as well as lead developer.
 
 Nokia had bought Navteq and decided to create an online mapping experience along the lines of Google maps. They had invested money in developing a browser plugin that would allow maps and navigation to work seamlessly in the browser.
 
-A few months after Scott joined, it became clear that the existing event driven framework that ran the separate modules that made up the Ovi maps web experience wasn't performing very well once the team had moved away from the browser plugin and implemented the newly created Javascript maps API and tile maps. He proposed a radical solution to the then head of Ovi Maps - namely that the team be split in two. He suggested four of the team could spend two months building a brand new proof of concept Javascript framework, built for speed from the ground up and the rest of the team would continue to work on the existing framework in case the first team were delayed or failed. After one month of work and seeing the amazing speed of the first team had had written, the original project was canned and the "Cheetah" framework was born, everyone switching to work full time on the prototype.
+A few months after Scott joined, it became clear that the existing event driven framework that ran the separate modules that made up the Ovi maps web experience wasn’t performing very well once the team had moved away from the browser plugin and implemented the newly created Javascript maps API and tile maps. He proposed a radical solution to the then head of Ovi Maps - namely that the team be split in two. He suggested four of the team could spend two months building a brand new proof of concept Javascript framework, built for speed from the ground up and the rest of the team would continue to work on the existing framework in case the first team were delayed or failed. After one month of work and seeing the amazing speed of the first team had had written, the original project was canned and the “Cheetah” framework was born, everyone switching to work full time on the prototype.
 
-This was an event driven MVC front end Javascript framework utilising prototypal inheritance and weakly coupled front end components communicating via an events object. The Javascript was then concatenated and minified using Google's Closure compiler and shipped as a single JS file.
+This was an event driven MVC front end Javascript framework utilising prototypal inheritance and weakly coupled front end components communicating via an events object. The Javascript was then concatenated and minified using Google’s Closure compiler and shipped as a single JS file.
 
-Initially loading just enough Javascript to power the initial view, using the proxy pattern, the other modules could then be loaded in at runtime transparently to the views, with each view's code being downloaded and initialised on demand.
+Initially loading just enough Javascript to power the initial view, using the proxy pattern, the other modules could then be loaded in at runtime transparently to the views, with each view’s code being downloaded and initialised on demand.
 
-Technologies used:
-HTML, CSS, Javascript, JSON APIs, Nokia Maps JS API, Google Closure Compiler/optimiser/ JSDoc with closure hints for typing. Java.
+<div class="t">Technologies used: HTML, CSS, Javascript, JSON APIs, Nokia Maps JS API, Google Closure Compiler/optimiser/ JSDoc with closure hints for typing. Java.</div>
 
 Personal:
 ---------------
