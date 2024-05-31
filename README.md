@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td>Email:</td>
-        <td>s<span></span>cott@ethosuk.net</td>
+        <td>s<span></span>cott@o<span>joho</span>.com</td>
     </tr>
 </table>
 <br style="clear:both" />
@@ -35,7 +35,7 @@
 
 Scott is a specialist in front end web technologies and implementation. He prefers leading by example and as such is a very hands-on coder, believing that the quality of the product is paramount and happy to share his knowledge with the team.
 
-He is an active participant in peer reviews and cross browser testing.
+He is an active participant in peer reviews and cross browser testing. Fluent in creating high performance front ends and app-like animated user experiences.
 
 An expert in Javascript, having written his own libraries and frameworks in the past, he has recently been specialising in full stack web development using React/NextJS/Typescript.
 
@@ -52,9 +52,9 @@ Scott can be found at [Github](https://github.com/scottlet) and on [Twitter](htt
 <li>javascript 25+ years</li>
 <li>CSS 25+ years</li>
 <li>HTML 25+ years</li>
-<li>JSON 15+ years</li>
 </ul>
 </td><td width="50%"><ul>
+<li>JSON 15+ years</li>
 <li>Playwright 1+ year</li>
 <li>NodeJS 9+ years</li>
 <li>SASS 10+ years</li>
@@ -70,9 +70,9 @@ Scott can be found at [Github](https://github.com/scottlet) and on [Twitter](htt
 <li>Adobe Creative Cloud 10+ years</li>
 <li>SQL Server (+MariaDB) 10 years</li>
 <li>JSP 10 years</li>
-<li>AEM 2 years</li></ul>
+<li>AEM 2 years</li>
+<li>EJS 10+ years</li></ul>
 </td><td width="50%"><ul>
-<li>EJS 10+ years</li>
 <li>Devops 10+ years</li>
 <li>Gulp 5+ years</li>
 <li>MongoDB 5+ years</li>
@@ -89,11 +89,15 @@ Senior Software Engineer working on the Online Ordering Platform. As a founding 
 
 <div class="t">Technologies used: React, Typescript, NextJS, graphQL, OpenAI ChatGPT, MobX, MST, Jest, Jest-aXe, Playwright, Cypress, Github, SASS modules, Atlassian, Slack</div>
 
+<hr>
+
 **Kenza (Contract - solo)** 2018/08 - present <a target="_blank" href="https://kenza.io" target="_blank">kenza.io</a>, also <a href="https://lkqeurope.com" target="_blank">LKQ Europe</a>
 
 Head of technology. Built both of Kenza’s corporate websites to date as well as various sites for LKQ Europe and their subsidiaries. Also built SAP Leonardo microsite advertising their service.
 
 <div class="t">Technologies used: React, Acquia SiteStudio, Javascript, PHP, Gulp, Wordpress, Drupal, HTML5 Canvas, CSS3, Video API, Sound API, WebGL, FFmpeg.</div>
+
+<hr>
 
 **AKQA Berlin (Contract)** 2020/04 <a href="https://web.archive.org/web/20220630172316/https://www.iwc.com/portugieser2020/en/site" target="_blank">Portugieser 2020 Collection (archive.org link)</a> - unfortunately no longer live, the archive.org version is missing many images.
 
@@ -101,12 +105,15 @@ Team lead on the IWC Schaffhausen SPA microsite. Very tight deadline and had to 
 
 <div class="t">Technologies used: React, Babel, Netlify, Cloudinary, Gatsby, Github.</div>
 
+<hr>
+
 **Primer SF (Contract)** 2019/07 - 2019/09
 
 Working on B2B AI tool for Primer clients. Info about Primer: <a target="_blank" href="https://primer.ai" target="_blank">primer.ai</a>
 
 <div class="t">Technologies used: React,  Typescript, MobX State Tree, ES6, Github, Greensock.</div>
 
+<hr>
 
 **Sportsvertise (solo)** 2018/08 - 2020/02 <a target="_blank" href="https://sportsvertise.com" target="_blank">sportsvertise.com</a>
 
@@ -114,6 +121,7 @@ Senior Engineer. Creating SPA for online auction site dealing with selling of sp
 
 <div class="t">Technologies used: HTML5, CSS3, Vanilla JS, HTML5 Video, Web components.</div>
 
+<hr>
 
 **Submerge (solo)** Various between 2018/09 - present <a target="_blank" href="https://submerge.me" target="_blank">submerge.me</a>
 
@@ -121,12 +129,15 @@ Festival and corporate website. Implementing redesign.
 
 <div class="t">Technologies used: HTML5, CSS3, Vanilla JS, Video, Wordpress.</div>
 
+<hr>
+
 **Siemens via AKQA Berlin** 2018/04 - 2018/06
 
 Creating HTML5 Canvas animation for an app
 
 <div class="t">Technologies used: Gulp, HTML5 Canvas, vanilla Javascript.</div>
 
+<hr>
 
 ### Also of note
 
@@ -153,6 +164,7 @@ Architect/Full stack developer - Integrating with IBM’s Watson service, this N
 
 <div class="t">Technologies used: AI, HTML5, CSS3, Javascript (ES5 front end, ES6 back end), NodeJS, Express, Passport, jQuery, Handlebars, MongoDB, Twitter API, IBM Bluemix APIs (NLP, NLC, Sentiment Analysis, PI).</div>
 
+<hr>
 
 **Rolls-Royce Motor Cars** 2015/06 - 2015/10 <a href="https://www.rolls-roycemotorcars.com" target="_blank">Rolls-Royce Motor Cars</a>
 
@@ -166,7 +178,7 @@ Project came in on time and under budget. Launched in September 2015.
 
 <div class="t">Technologies used: Gulp, ECMAScript 6, HTML5, jQuery, Picturefill, SVG, PubSubJS, SASS, Babel, ZombieJS, Adobe CQ5 version 6, Sightly, Stash, Slack, Java.</div>
 
-
+<hr>
 
 **Officine Panerai** 2014/01 - 2015/06 <a href="https://www.panerai.com">Panerai</a>
 
@@ -189,6 +201,8 @@ Version 1 was launched at the start of October 2010 in the US market as a static
 
 <div class="t">Technologies used: HTML, CSS, Javascript, Photoshop</div>
 
+<hr>
+
 **Nokia** 2009/02 - 2010/07
 
 Web developer on the Ovi Maps core team for Nokia working with 7 others out of Nokia’s Berlin office.
@@ -205,6 +219,8 @@ Initially loading just enough Javascript to power the initial view, using the pr
 
 <div class="t">Technologies used: HTML, CSS, Javascript, JSON APIs, Nokia Maps JS API, Google Closure Compiler/optimiser/ JSDoc with closure hints for typing. Java.</div>
 
+<hr>
+
 Personal:
 ---------------
 Scott is a [passionate photographer](https://scottjoycephotography.net]), loves travelling with his camera and enjoys live music and cycling.
@@ -213,4 +229,4 @@ References:
 ---------------
 Available on request
 <br /><br /><br /><br /><br /><br />
-<sub><style><!-- a img,td,th{border:none}body,pre code{background-color:#fff}blockquote,h1,h2,h3,h4,h5,h6,p{margin:0;padding:0}blockquote,h1{margin-bottom:18px}body{font-family:"Helvetica Neue",Helvetica,"Hiragino Sans GB",Arial,sans-serif;font-size:13px;line-height:18px;color:#36454f;margin:10px 13px;padding:50px 30px}table{margin:10px 0 15px;border-collapse:collapse}td,th{padding:3px 10px}th{padding:5px 10px}a{color:#0069d6}a:hover{color:#0050a3;text-decoration:none}p{margin-bottom:9px}h1,h2,h3,h4,h5,h6{color:#404040;line-height:36px}h1{font-size:30px}h2{font-size:24px}h3{font-size:18px}h4{font-size:16px}blockquote p,h5{font-size:14px}h6{font-size:13px}.hidden{font-size:0}.big{border:2px solid #36454f}hr{margin:0 0 19px;border:0;border-bottom:1px solid #ccc}blockquote{padding:13px 13px 21px 15px;font-family:georgia,serif;font-style:italic}blockquote:before{content:"\201C";font-size:40px;margin-left:-10px;font-family:georgia,serif;color:#eee}blockquote p{font-weight:300;line-height:18px;margin-bottom:0;font-style:italic}code,pre{font-family:Monaco,Andale Mono,Courier New,monospace}code{background-color:#fee9cc;color:rgba(0,0,0,.75);padding:1px 3px;font-size:12px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}pre,pre code{font-size:11px}pre{display:block;padding:14px;margin:0 0 18px;line-height:16px;border:1px solid #d9d9d9;white-space:pre-wrap;word-wrap:break-word}pre code{color:#737373;padding:0}sup{font-size:.83em;vertical-align:super;line-height:0}*{-webkit-print-color-adjust:exact}@media screen and (min-width:914px){body{width:854px;margin:10px auto}}@media print{body,code,h1,h2,h3,h4,h5,h6,pre code{color:#000}pre,table{page-break-inside:avoid}}.t{padding:5px;background:#ffd580;margin-bottom:10px} --></style></sub>
+<sub><style><!-- a img,td,th{border:none}body,pre code{background-color:#fff}blockquote,h1,h2,h3,h4,h5,h6,p{margin:0;padding:0}blockquote,h1{margin-bottom:18px}body{font-family:"Helvetica Neue",Helvetica,"Hiragino Sans GB",Arial,sans-serif;font-size:15px;line-height:1.4;color:#36454f;margin:10px 13px;padding:50px 30px}table{margin:10px 0 15px;border-collapse:collapse;border-top:.5px solid #36454f;border-bottom: .5px solid #36454f;}td,th{padding:3px 10px}th{padding:5px 10px;vertical-align:top;}a{color:#0069d6}a:hover{color:#0050a3;text-decoration:none}p{margin-bottom:9px}h1,h2,h3,h4,h5,h6{color:#404040;line-height:36px}h1{font-size:30px}h2{font-size:24px}h3{font-size:18px}h4{font-size:16px}blockquote p,h5{font-size:14px}h6{font-size:13px}ul{line-height:1.5}.big{border:2px solid #36454f}hr{margin:0 0 19px;border:0;border-bottom:.5px solid #36454f}blockquote{padding:13px 13px 21px 15px;font-family:georgia,serif;font-style:italic}blockquote:before{content:"\201C";font-size:40px;margin-left:-10px;font-family:georgia,serif;color:#eee}blockquote p{font-weight:300;line-height:18px;margin-bottom:0;font-style:italic}code,pre{font-family:Monaco,Andale Mono,Courier New,monospace}code{background-color:#fee9cc;color:rgba(0,0,0,.75);padding:1px 3px;font-size:12px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}pre,pre code{font-size:11px}pre{display:block;padding:14px;margin:0 0 18px;line-height:16px;border:1px solid #d9d9d9;white-space:pre-wrap;word-wrap:break-word}pre code{color:#737373;padding:0}sup{font-size:.83em;vertical-align:super;line-height:0}*{-webkit-print-color-adjust:exact}@media screen and (min-width:914px){body{width:854px;margin:10px auto}}@media print{body,code,h1,h2,h3,h4,h5,h6,pre code{color:#000}pre,table{page-break-inside:avoid;border:0;}hr{display:none}}.t{padding:5px;background:#ffd580;margin-bottom:10px} --></style></sub>
