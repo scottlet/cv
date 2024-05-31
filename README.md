@@ -215,7 +215,7 @@ Available on request
 
 
 
-<div style="display: none">
+<span style="font-size: 0;">
 <style>
 <!--
 h1,
@@ -381,4 +381,4 @@ sup {
 }
 -->
 </style>
-</div>
+</span>
