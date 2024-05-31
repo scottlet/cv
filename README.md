@@ -213,6 +213,9 @@ References:
 ---------------
 Available on request
 
+
+
+<div style="display: none">
 <style>
 <!--
 h1,
@@ -378,3 +381,4 @@ sup {
 }
 -->
 </style>
+</div>
