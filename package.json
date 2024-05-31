@@ -2,11 +2,10 @@
     "name": "cv-scott-van-looy",
     "version": "1.9.0",
     "scripts": {
-        "refresh": "cat README.md | md-to-pdf --pdf-options '{ \"format\": \"A4\", \"margin\": \"0mm\" }' > cv.pdf & marked README.md > cv.html"
+        "refresh": "mdpdf README.md --border-right=0mm --border-left=0mm --border-top=5mm --border-bottom=5mm cv.pdf && marked --gfm README.md > cv.html"
     },
     "dependencies": {
-        "markdown-pdf": "^11.0.0",
-        "marked": "^12.0.0",
-        "md-to-pdf": "^5.2.4"
+        "marked": "^12.0.2",
+        "mdpdf": "^3.0.3"
     }
 }
