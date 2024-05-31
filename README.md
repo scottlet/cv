@@ -213,8 +213,7 @@ References:
 ---------------
 Available on request
 <br /><br /><br />
-<sub>
-<style>
+<sub><style>
 <!--
 h1,
 h2,
@@ -378,5 +377,4 @@ background: #FFD580;
 margin-bottom: 10px;
 }
 -->
-</style>
-</sub>
+</style></sub>
