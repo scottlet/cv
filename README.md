@@ -1,6 +1,6 @@
 
 <div style="display: none">
-<style type="text/css">
+<style>
 <!--
 h1,
 h2,
