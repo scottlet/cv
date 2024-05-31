@@ -212,13 +212,10 @@ Scott is a [passionate photographer](https://scottjoycephotography.net]), loves 
 References:
 ---------------
 Available on request
-
+<br /><br /><br />
 <sub>
-<style
-  type="text/css">
-  body{font-family:"Helvetica Neue";}
-</style>
-</sub>
+
+
 <style>
 <!--
 h1,
@@ -384,4 +381,4 @@ margin-bottom: 10px;
 }
 -->
 </style>
-
+</sub>
