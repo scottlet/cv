@@ -199,7 +199,7 @@ An expert in Javascript, having written his own libraries and frameworks in the 
 
 Scott has worked primarily with the following technologies: Typescript, NextJS, React, SASS, Jest, Playwright, Javascript, NodeJS, HTML5 and CSS3 and as a consequence has also worked with PostCSS, Node, MongoDB, Express, Gulp, AWS, Google Cloud.
 
-Scott can be found at [Github](https://github.com/scottbert) and on [Twitter](https://twitter.com/svanlooy).
+Scott can be found at [Github](https://github.com/scottlet) and on [Twitter](https://twitter.com/svanlooy).
 
 ## Expert in
 
