@@ -6,6 +6,6 @@
     },
     "dependencies": {
         "marked": "^12.0.2",
-        "mdpdf": "^3.0.3"
+        "mdpdf": "^3.1.0"
     }
 }
